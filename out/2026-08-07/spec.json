@@ -1,0 +1,16 @@
+{
+  "root": ".",
+  "date": "2026-08-07",
+  "out_dir": "out/2026-08-07",
+  "posts": [
+    {"slot": 1, "photo": "photos/16FCEAAF-C1FD-4957-9177-118260692A24_1_105_c.jpeg",
+     "headline": "The habit forms in the minute you want out",
+     "style_index": 3, "yb": 1.0, "sa": 206, "bb": 0.44},
+    {"slot": 2, "photo": "photos/572F4852-DE54-44AD-BAFA-CF1744B757B1_1_105_c.jpeg",
+     "headline": "Carbohydrates before hard training are not the enemy",
+     "style_index": 0, "yb": 1.0, "sa": 214, "bb": 0.42},
+    {"slot": 3, "photo": "photos/3B76EAD1-4E61-495A-A1D4-FF340DDB1563_1_105_c.jpeg",
+     "headline": "Aerobic base is what makes daily life easy",
+     "style_index": 1, "yb": 0.55, "sa": 240, "bb": 0.46}
+  ]
+}
