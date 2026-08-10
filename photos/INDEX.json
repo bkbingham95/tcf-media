@@ -1,0 +1,573 @@
+{
+  "_note": "Photo index rebuilt 2026-08-10 after the photo library was fully replaced. The previous 8 photos (247EAEE3, 3B76EAD1, 498E4D1F, 572F4852, 7D36D465, 16FCEAAF, BE24CB50, CCD4349B) were deleted from the folder and the repo; their entries are preserved in state/used.json history only. Descriptions are usable as Instagram alt text as written.",
+  "generated": "2026-08-10",
+  "count": 44,
+  "photos": [
+    {
+      "file": "IMG_0180.JPEG",
+      "desc": "Empty black steel pull-up and squat rig inside a gym, shot close so the uprights fill the frame, with a whiteboard, hanging ring, supply shelf and a green graffiti mural on the cream brick wall behind it.",
+      "people": 0,
+      "group": false,
+      "movement": "none",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "cluttered composition, foreground uprights block the view"
+    },
+    {
+      "file": "IMG_0486.JPEG",
+      "desc": "Six people in workout clothes rest on the sidewalk and steps outside a red brick building on a sunny day, several drinking water, one in a black MURPH tank top.",
+      "people": 6,
+      "group": true,
+      "movement": "post-workout rest",
+      "pillars": [
+        "Community and Coaching",
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "subjects small in frame, harsh sun, several faces turned away"
+    },
+    {
+      "file": "IMG_4771.JPEG",
+      "desc": "Empty gym floor viewed down the length of a black pull-up rig on rubber tile, with a red clock reading 24:03, a workout whiteboard, rings, water cooler and a graffiti mural on the white brick wall.",
+      "people": 0,
+      "group": false,
+      "movement": "none",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled003.jpg",
+      "desc": "Close-up of a row of black rubber hex dumbbells with chrome handles racked on a two-tier stand over a red tile floor, the 65 lb head in sharp focus.",
+      "people": 0,
+      "group": false,
+      "movement": "none",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled005.jpg",
+      "desc": "Resistance bands in purple, black, green, blue, red and magenta hang from a wall-mounted black Rogue rack against a whitewashed brick wall.",
+      "people": 0,
+      "group": false,
+      "movement": "none",
+      "pillars": [
+        "Strength and Performance",
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled031-2.jpg",
+      "desc": "A woman with a long braid hangs at arm's length from a single gymnastic ring in a leaning ring-row position, heels on the floor, backlit by a large industrial window.",
+      "people": 1,
+      "group": false,
+      "movement": "ring row",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "strongly backlit, subject close to silhouette"
+    },
+    {
+      "file": "May05,2026untitled032.jpg",
+      "desc": "An older woman with short white-blonde hair in a light green tank top leans back holding a gymnastic ring in a ring row, heels planted on the rubber floor, a rig and wall-racked barbells behind her.",
+      "people": 1,
+      "group": false,
+      "movement": "ring row",
+      "pillars": [
+        "Real-Life Fitness",
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled034.jpg",
+      "desc": "A woman in a white tank top and navy leggings bends forward at the hips gripping an unloaded barbell at hip height, photographed head-on against a plain concrete wall.",
+      "people": 1,
+      "group": false,
+      "movement": "bent-over barbell row",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "head angled down, face shadowed"
+    },
+    {
+      "file": "May05,2026untitled040.jpg",
+      "desc": "A woman in a black cropped tee is shot from behind with hands on hips in a split-stance lunge, an out-of-focus machine crossing the foreground.",
+      "people": 1,
+      "group": false,
+      "movement": "lunge",
+      "pillars": [
+        "Real-Life Fitness",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": "back of head only, blurred equipment across foreground"
+    },
+    {
+      "file": "May05,2026untitled052.jpg",
+      "desc": "A woman in a blue tank top briefs two others at a whiteboard listing a workout called Alderaan with 400m runs, 50 pull-ups, 100 push-ups and 150 air squats, under a graffiti mural.",
+      "people": 3,
+      "group": true,
+      "movement": "coaching cue",
+      "pillars": [
+        "Community and Coaching",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "two of three subjects face away"
+    },
+    {
+      "file": "May05,2026untitled057.jpg",
+      "desc": "A woman in a black tank top holds the top of a push-up plank with hands flat on a black mat, head lowered, in front of a wall of racked barbells.",
+      "people": 1,
+      "group": false,
+      "movement": "push-up",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "face angled down, partly hidden by hair"
+    },
+    {
+      "file": "May05,2026untitled058.jpg",
+      "desc": "A man in a black long-sleeve shirt is at the bottom of a push-up with chest and forehead near the black rubber floor, barbells racked on the wall behind him.",
+      "people": 1,
+      "group": false,
+      "movement": "push-up",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "face not visible, very low-key lighting"
+    },
+    {
+      "file": "May05,2026untitled063.jpg",
+      "desc": "A man in a black tee and shorts runs toward the camera across an asphalt parking lot, with a tree, parked pickup and houses blurred behind him.",
+      "people": 1,
+      "group": false,
+      "movement": "outdoor running",
+      "pillars": [
+        "Real-Life Fitness",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled067.jpg",
+      "desc": "An older woman in a neon-yellow tank holds a high plank on a rolled mat beside a rig upright, gymnastic rings and a supply shelf behind her.",
+      "people": 1,
+      "group": false,
+      "movement": "plank hold",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "rig upright crosses the torso"
+    },
+    {
+      "file": "May05,2026untitled076.jpg",
+      "desc": "A man in a light green t-shirt rests in a low squat with hands clasped and head down between rig uprights, in front of a wall-mounted barbell rack.",
+      "people": 1,
+      "group": false,
+      "movement": "rest between sets",
+      "pillars": [
+        "Consistency and Accountability",
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "rig upright cuts through right of frame"
+    },
+    {
+      "file": "May05,2026untitled081.jpg",
+      "desc": "An older man in a light blue t-shirt pulls the handle on a Concept2 rower, a wall ball in the foreground and another erg behind him.",
+      "people": 1,
+      "group": false,
+      "movement": "rowing",
+      "pillars": [
+        "Real-Life Fitness",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled090.jpg",
+      "desc": "A smiling woman in a crop tank holds a white PVC pipe across the front of her body with arms extended, in front of a brick wall with a band rack and PVC pipes.",
+      "people": 1,
+      "group": false,
+      "movement": "PVC mobility drill",
+      "pillars": [
+        "Community and Coaching",
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled094.jpg",
+      "desc": "A woman in a blue tank top performs a push-up on the gym floor between black rig uprights, a painted brick wall and workout whiteboard behind her.",
+      "people": 1,
+      "group": false,
+      "movement": "push-up",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "foreground uprights partially obscure the subject"
+    },
+    {
+      "file": "May05,2026untitled121.jpg",
+      "desc": "A blonde woman in a black tank top holds the top of a push-up plank on the black gym floor in front of a whitewashed brick wall.",
+      "people": 1,
+      "group": false,
+      "movement": "push-up",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "out-of-focus object at lower-left"
+    },
+    {
+      "file": "May05,2026untitled140.jpg",
+      "desc": "Close-up of a row of worn cast-iron kettlebells lined up on the gym floor, dark medicine balls blurred behind them against a painted brick wall.",
+      "people": 0,
+      "group": false,
+      "movement": "none",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled153.jpg",
+      "desc": "Black-and-white backlit silhouette of a person standing with hands raised and pressed together in front of a large industrial window, rig uprights behind them.",
+      "people": 1,
+      "group": false,
+      "movement": "rest between sets",
+      "pillars": [
+        "Community and Coaching",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "strong silhouette, face lost to shadow"
+    },
+    {
+      "file": "May05,2026untitled183.jpg",
+      "desc": "A bearded man in a sage sleeveless shirt stands with head bowed behind a black machine, in front of whiteboards listing benchmark workouts and member names.",
+      "people": 1,
+      "group": false,
+      "movement": "rest between sets",
+      "pillars": [
+        "Community and Coaching",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": "member names legible on the whiteboard"
+    },
+    {
+      "file": "May05,2026untitled186.jpg",
+      "desc": "An older woman in a lime-green tank holds a high plank on a floor mat beneath a black squat rack, barbells stored on a wall rack behind her.",
+      "people": 1,
+      "group": false,
+      "movement": "plank hold",
+      "pillars": [
+        "Strength and Performance",
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": "face partly hidden, blurred foreground at bottom edge"
+    },
+    {
+      "file": "May05,2026untitled216.jpg",
+      "desc": "A row of black Assault air bikes along a gym wall, shot low with the nearest fan wheel in sharp focus.",
+      "people": 0,
+      "group": false,
+      "movement": "none",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled236.jpg",
+      "desc": "A gray-haired woman standing on a wooden plyo box grips an overhead pull-up bar while a man hangs from the same bar beside her, in a brick-walled gym.",
+      "people": 2,
+      "group": true,
+      "movement": "assisted pull-up",
+      "pillars": [
+        "Strength and Performance",
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "very dark, heavily backlit"
+    },
+    {
+      "file": "May05,2026untitled250.jpg",
+      "desc": "A woman in a knee brace and a man on a blue knee scooter, both in black Tough Country MURPH tank tops, move together across an outdoor parking lot.",
+      "people": 2,
+      "group": true,
+      "movement": "outdoor MURPH lap",
+      "pillars": [
+        "Real-Life Fitness",
+        "Community and Coaching",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled251.jpg",
+      "desc": "A man in a sage-green shirt holds the top of a push-up on the rubber floor beside a cream brick wall, barbells racked horizontally above him.",
+      "people": 1,
+      "group": false,
+      "movement": "push-up",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": "out-of-focus object blocks bottom of frame"
+    },
+    {
+      "file": "May05,2026untitled264.jpg",
+      "desc": "A young man in an olive shirt rests in a deep squat between Concept2 rowers, hands on his knee, with a water bottle and slam ball beside him and two others in the background.",
+      "people": 3,
+      "group": false,
+      "movement": "rest between intervals",
+      "pillars": [
+        "Real-Life Fitness",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled296.jpg",
+      "desc": "An older man in a light blue shirt braces his hands on two rowing machines to step forward between them, in front of a whiteboard of handwritten tracking grids.",
+      "people": 1,
+      "group": false,
+      "movement": "step-through between rowers",
+      "pillars": [
+        "Real-Life Fitness",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled299.jpg",
+      "desc": "Close-up of stacked black Rogue and Abmat pads on a shelf against a whitewashed brick wall.",
+      "people": 0,
+      "group": false,
+      "movement": "none",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled302.jpg",
+      "desc": "A woman with long gray wavy hair in a gray tank top holds a plank on black rubber flooring with resistance bands stretched out to either side of her.",
+      "people": 1,
+      "group": false,
+      "movement": "banded plank",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled352.jpg",
+      "desc": "A man in a black Challenge Accepted long-sleeve shirt, headband and calf sleeves runs toward the camera across a parking lot with a flowering tree behind him.",
+      "people": 1,
+      "group": false,
+      "movement": "outdoor running",
+      "pillars": [
+        "Real-Life Fitness",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled354.jpg",
+      "desc": "A woman in a pink t-shirt leans back on gymnastic rings performing a ring row, feet planted on the gym floor beside a barbell wall rack.",
+      "people": 1,
+      "group": false,
+      "movement": "ring row",
+      "pillars": [
+        "Strength and Performance",
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled472.jpg",
+      "desc": "A woman in a blue t-shirt reaches up to loop red and blue resistance bands over the pull-up bar of a black rig, with rings and an arched window behind her.",
+      "people": 1,
+      "group": false,
+      "movement": "rig setup",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled478.jpg",
+      "desc": "A man in a black t-shirt hangs from a rig pull-up bar at the top of a pull-up with his chin near the bar and knees bent, in front of a graffiti mural and workout whiteboard.",
+      "people": 1,
+      "group": false,
+      "movement": "pull-up",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled518.jpg",
+      "desc": "A woman lies on her back on the rubber floor with knees bent, pressing a single black weight plate up from her chest, a rack of barbells behind her.",
+      "people": 1,
+      "group": false,
+      "movement": "floor press",
+      "pillars": [
+        "Strength and Performance",
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "blurred equipment across bottom edge"
+    },
+    {
+      "file": "May05,2026untitled552.jpg",
+      "desc": "A woman in a blue tank top sits on the gym floor in a seated hamstring stretch, reaching both hands to the sole of one extended foot, with medicine balls and kettlebells behind her.",
+      "people": 1,
+      "group": false,
+      "movement": "hamstring stretch",
+      "pillars": [
+        "Real-Life Fitness",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled703.jpg",
+      "desc": "A woman in a gray tank top holds a plank facing the camera with a green resistance band stretched horizontally behind her arms, in front of a wall-mounted barbell rack.",
+      "people": 1,
+      "group": false,
+      "movement": "banded plank",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": "photographer credit watermark bottom-left"
+    },
+    {
+      "file": "May05,2026untitled750.jpg",
+      "desc": "A bearded man in a sage sleeveless shirt holds a deep bodyweight squat with arms hanging between his knees and head down, sweating, air bikes behind him.",
+      "people": 1,
+      "group": false,
+      "movement": "rest squat",
+      "pillars": [
+        "Consistency and Accountability",
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "May05,2026untitled784.jpg",
+      "desc": "A woman in a black tank top holds the top of a push-up with straight arms and head lowered, shown in profile beside a rig upright.",
+      "people": 1,
+      "group": false,
+      "movement": "push-up",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": "foreground uprights block left and right edges"
+    },
+    {
+      "file": "untitled-72.jpg",
+      "desc": "Shot from above an athlete's head as she lies on her back and presses two 20-pound hex dumbbells to lockout, another person training on a bench blurred behind.",
+      "people": 2,
+      "group": true,
+      "movement": "dumbbell floor press",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "athlete's face not visible"
+    },
+    {
+      "file": "untitled-76.jpg",
+      "desc": "A woman lies on her back pressing two hex dumbbells overhead, photographed from behind her head, while two other women perform the same press on benches in the open gym.",
+      "people": 3,
+      "group": true,
+      "movement": "dumbbell press, group class",
+      "pillars": [
+        "Strength and Performance",
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "untitled-82.jpg",
+      "desc": "High-contrast black-and-white image of a bearded man seated on a Concept2 rower at the catch, pulling the handle with knees drawn up, silhouetted against an open roll-up door.",
+      "people": 1,
+      "group": false,
+      "movement": "rowing",
+      "pillars": [
+        "Consistency and Accountability",
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "very low-key black and white, much lost to shadow"
+    },
+    {
+      "file": "untitled-87.jpg",
+      "desc": "Black-and-white side view of a woman bench pressing a loaded barbell at arm's lockout inside a squat rack, brick wall and barbell storage behind her.",
+      "people": 1,
+      "group": false,
+      "movement": "barbell bench press",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    }
+  ]
+}
