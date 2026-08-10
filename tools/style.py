@@ -31,7 +31,7 @@ STYLES = [
 
 MARGIN_X = 78
 BASELINE_PAD = 96
-TAG_TEXT = "TOUGH COUNTRY FITNESS"
+TAG_TEXT = "T O U G H   C O U N T R Y   F I T N E S S"
 
 
 def _crop_45(img, yb):
@@ -103,31 +103,34 @@ def render(photo_path, headline, style_index, out_path, yb=0.5, sa=210, bb=0.42)
 
     leading = int(round(size * 1.06))
     block_h = leading * len(lines)
-    y = H - BASELINE_PAD - block_h
+    tag_h = 34 + 26          # tag glyph band + gap above it
+    rule_h = 8 + 26          # accent rule + gap below it
+    y = H - BASELINE_PAD - tag_h - rule_h - block_h
 
-    # accent rule above the headline
-    rule_y = y - 34
-    draw.rectangle(
-        [MARGIN_X, rule_y, MARGIN_X + 108, rule_y + 8], fill=style["accent"]
-    )
-
-    for line in lines:
+    # headline: every line white except the last, which takes the accent
+    for i, line in enumerate(lines):
         draw.text(
             (MARGIN_X, y),
             line,
             font=font,
-            fill=(255, 255, 255),
+            fill=style["accent"] if i == len(lines) - 1 else (255, 255, 255),
             stroke_width=2,
             stroke_fill=(0, 0, 0),
         )
         y += leading
 
+    # accent rule sits under the headline, above the wordmark
+    rule_y = y + 22
+    draw.rectangle(
+        [MARGIN_X, rule_y, MARGIN_X + 176, rule_y + 8], fill=style["accent"]
+    )
+
     tag = ImageFont.truetype(str(TAG_FONT), 34)
     draw.text(
-        (MARGIN_X, H - BASELINE_PAD + 22),
+        (MARGIN_X, rule_y + 34),
         TAG_TEXT,
         font=tag,
-        fill=style["accent"],
+        fill=(255, 255, 255),
     )
 
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)

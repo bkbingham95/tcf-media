@@ -1,0 +1,10 @@
+{
+  "root": ".",
+  "date": "2026-08-09",
+  "out_dir": "out/2026-08-09",
+  "posts": [
+    {"slot": 1, "photo": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
+     "headline": "A push-up is a moving plank",
+     "style_index": 2, "yb": 0.5, "sa": 214, "bb": 0.44}
+  ]
+}

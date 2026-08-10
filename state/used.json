@@ -1,6 +1,6 @@
 {
   "_note": "Rebuilt 2026-08-06. The original state/used.json was never committed to the repo, so the pre-2026-08-06 entries below were reconstructed from published Blotato captions. The three photos marked inferred are a best guess based on which photo each published concept must have used. Verify against the live posts if photo reuse matters.",
-  "style_index": 2,
+  "style_index": 3,
   "photos": [
     {
       "file": "photos/247EAEE3-DB3D-4A1C-9850-09CFE192C5F1.jpeg",
@@ -31,32 +31,97 @@
       "file": "photos/3B76EAD1-4E61-495A-A1D4-FF340DDB1563_1_105_c.jpeg",
       "used": "2026-08-07",
       "confidence": "confirmed"
+    },
+    {
+      "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
+      "used": "2026-08-09",
+      "confidence": "confirmed"
     }
   ],
   "unused_photos_remaining": [
-    "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
     "photos/CCD4349B-130F-4776-B450-27B8A5867C80.jpeg"
   ],
   "concepts": [
-    { "date": "2026-08-03", "pillar": "Consistency and Accountability", "concept": "discipline over motivation, people quit from boredom rather than difficulty" },
-    { "date": "2026-08-03", "pillar": "Real-Life Fitness", "concept": "strength after fifty, pull-up progress, strength does not check a birth certificate" },
-    { "date": "2026-08-04", "pillar": "Real-Life Fitness", "concept": "sit-to-rise test as a healthy aging marker" },
-    { "date": "2026-08-04", "pillar": "Simple Nutrition", "concept": "flank steak with chimichurri as a fast high protein meal prep cut" },
-    { "date": "2026-08-04", "pillar": "Simple Nutrition", "concept": "spreading protein across the day instead of loading it at dinner" },
-    { "date": "2026-08-04", "pillar": "Community and Coaching", "concept": "group training accountability and what a coach actually does" },
-    { "date": "2026-08-05", "pillar": "Strength and Performance", "concept": "double progression as the fix for a stalled lift" },
-    { "date": "2026-08-05", "pillar": "Simple Nutrition", "concept": "fast high protein one skillet dinner" },
-    { "date": "2026-08-05", "pillar": "Real-Life Fitness", "concept": "three genuinely hard sets in twenty minutes beats a busy looking hour" },
-    { "date": "2026-08-05", "pillar": "Community and Coaching", "concept": "training around other people so form breakdown gets caught late in a piece" },
-    { "date": "2026-08-05", "pillar": "Strength and Performance", "concept": "full depth squats and pausing at the bottom to find an honest load" },
-    { "date": "2026-08-07", "pillar": "Consistency and Accountability", "concept": "the decision point mid workout where the brain negotiates, and the habit forms there" },
-    { "date": "2026-08-07", "pillar": "Simple Nutrition", "concept": "carbohydrates before hard training, under fueling shows up as a slow final round" },
-    { "date": "2026-08-07", "pillar": "Real-Life Fitness", "concept": "aerobic base as the thing that makes ordinary daily life feel easy" }
+    {
+      "date": "2026-08-03",
+      "pillar": "Consistency and Accountability",
+      "concept": "discipline over motivation, people quit from boredom rather than difficulty"
+    },
+    {
+      "date": "2026-08-03",
+      "pillar": "Real-Life Fitness",
+      "concept": "strength after fifty, pull-up progress, strength does not check a birth certificate"
+    },
+    {
+      "date": "2026-08-04",
+      "pillar": "Real-Life Fitness",
+      "concept": "sit-to-rise test as a healthy aging marker"
+    },
+    {
+      "date": "2026-08-04",
+      "pillar": "Simple Nutrition",
+      "concept": "flank steak with chimichurri as a fast high protein meal prep cut"
+    },
+    {
+      "date": "2026-08-04",
+      "pillar": "Simple Nutrition",
+      "concept": "spreading protein across the day instead of loading it at dinner"
+    },
+    {
+      "date": "2026-08-04",
+      "pillar": "Community and Coaching",
+      "concept": "group training accountability and what a coach actually does"
+    },
+    {
+      "date": "2026-08-05",
+      "pillar": "Strength and Performance",
+      "concept": "double progression as the fix for a stalled lift"
+    },
+    {
+      "date": "2026-08-05",
+      "pillar": "Simple Nutrition",
+      "concept": "fast high protein one skillet dinner"
+    },
+    {
+      "date": "2026-08-05",
+      "pillar": "Real-Life Fitness",
+      "concept": "three genuinely hard sets in twenty minutes beats a busy looking hour"
+    },
+    {
+      "date": "2026-08-05",
+      "pillar": "Community and Coaching",
+      "concept": "training around other people so form breakdown gets caught late in a piece"
+    },
+    {
+      "date": "2026-08-05",
+      "pillar": "Strength and Performance",
+      "concept": "full depth squats and pausing at the bottom to find an honest load"
+    },
+    {
+      "date": "2026-08-07",
+      "pillar": "Consistency and Accountability",
+      "concept": "the decision point mid workout where the brain negotiates, and the habit forms there"
+    },
+    {
+      "date": "2026-08-07",
+      "pillar": "Simple Nutrition",
+      "concept": "carbohydrates before hard training, under fueling shows up as a slow final round"
+    },
+    {
+      "date": "2026-08-07",
+      "pillar": "Real-Life Fitness",
+      "concept": "aerobic base as the thing that makes ordinary daily life feel easy"
+    },
+    {
+      "date": "2026-08-09",
+      "pillar": "Strength and Performance",
+      "concept": "the push-up as a moving plank, midline bracing is what turns it into a press"
+    }
   ],
-  "last_pillar": "Real-Life Fitness",
+  "last_pillar": "Strength and Performance",
   "next_pillars": [
     "Community and Coaching",
-    "Strength and Performance",
-    "Consistency and Accountability"
+    "Consistency and Accountability",
+    "Simple Nutrition"
   ]
 }
