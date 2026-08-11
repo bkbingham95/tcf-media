@@ -45,17 +45,29 @@ Standing rules for the photo-to-Instagram pipeline. Read this before any run.
 - Five pillars: Strength and Performance, Simple Nutrition, Real-Life Fitness,
   Community and Coaching, Consistency and Accountability. Rotate in order; the current
   position lives in `state/used.json` under `next_pillars`.
-- Simple Nutrition has **no supporting photography** in the library. Either skip it with
-  a note or ask Brian for food images. Do not force an unrelated gym photo onto it.
+- Simple Nutrition is served as **Meal Prep Monday recipe cards** generated in Simpli
+  Studio, not from the gym photo library. It is not an unservable pillar. Do not force a
+  gym photo onto it and do not skip it for lack of food photography.
 - If no photo fits the pillar that is up next, match the pillar to the image instead of
   forcing it, and leave the skipped pillar at the front of the queue.
 - Style rotation cycles amber, ice blue, clay red, green by `style_index` in `used.json`.
 
 ## Anti-repeat
 
-- `state/used.json` concept history is **not** sufficient on its own. Before picking a
-  concept, pull real post history with `list_posts` filtered to `sent` and read the
-  captions. A concept was duplicated on 2026-08-11 because the ledger stopped at 08-07.
+**Buffer sent history is the source of truth. `state/used.json` is not.** Posts created
+by hand in the Buffer UI, or by any other tool, never reach the ledger.
+
+Before choosing a single concept, every run:
+
+1. `list_posts` with status `sent`, `channelIds` set, and a `dueAt` window covering **at
+   least the last 7 days up to right now**. Do not use a fixed post count; recently sent
+   posts fall outside a count-limited pull and that is exactly how repeats slip through.
+2. Read every caption returned. Write the topics down before picking anything.
+3. Only then consult `used.json` for pillar and style rotation position.
+
+On 2026-08-11 two posts were rebuilt **word for word** from concepts published on
+2026-08-10, because those posts were created outside this pipeline and the history pull
+stopped before they sent. Both had to be deleted. Assume this failure mode is live.
 - The ledger **cannot detect a reused photo**. Posts before 2026-08-10 were uploaded
   straight into Buffer, so their image URLs say nothing about the source file. Brian
   flags photo reuse manually; record every flag in `photos_flagged_used_offline`.
@@ -70,3 +82,10 @@ Standing rules for the photo-to-Instagram pipeline. Read this before any run.
   question closing the caption.
 - No engagement bait. No "tag a friend", "share if you agree", "drop a comment".
   Close with a real question instead.
+
+
+## Working alongside Brian
+
+Brian edits the same queue in the Buffer UI while sessions are running. If a post flips
+to `draft` or returns 404 shortly after being scheduled, that is very likely him, not a
+bug. Stop mutating, read the current state, and ask before recreating anything.
