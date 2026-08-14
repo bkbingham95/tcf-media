@@ -1,0 +1,10 @@
+{
+  "root": ".",
+  "date": "2026-08-14",
+  "out_dir": "out/2026-08-14",
+  "posts": [
+    {"slot": 1, "photo": "photos/IMG_0486_fixed.jpg", "headline": "The hard part of week one is not the workout", "style_index": 3, "yb": 0.5, "sa": 220, "bb": 0.47},
+    {"slot": 2, "photo": "photos/May05,2026untitled090.jpg", "headline": "Your warmup is not a formality", "style_index": 0, "yb": 0.5, "sa": 216, "bb": 0.45},
+    {"slot": 3, "photo": "photos/May05,2026untitled352.jpg", "headline": "Running is not a punishment", "style_index": 1, "yb": 0.5, "sa": 216, "bb": 0.45}
+  ]
+}

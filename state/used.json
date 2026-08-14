@@ -1,6 +1,6 @@
 {
   "_note": "Re-indexed 2026-08-10. The photo library was fully replaced, so the photo usage ledger was reset to the 44 new files. Concept history is preserved and still governs anti-repeat. Photos used before 2026-08-10 refer to files no longer in the repo.",
-  "style_index": 3,
+  "style_index": 2,
   "photos": [
     {
       "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
@@ -22,11 +22,25 @@
       "file": "photos/May05,2026untitled472.jpg",
       "used": "2026-08-11",
       "confidence": "confirmed"
+    },
+    {
+      "file": "photos/IMG_0486.JPEG",
+      "used": "2026-08-14",
+      "confidence": "confirmed"
+    },
+    {
+      "file": "photos/May05,2026untitled090.jpg",
+      "used": "2026-08-14",
+      "confidence": "confirmed"
+    },
+    {
+      "file": "photos/May05,2026untitled352.jpg",
+      "used": "2026-08-14",
+      "confidence": "confirmed"
     }
   ],
   "unused_photos_remaining": [
     "photos/IMG_0180.JPEG",
-    "photos/IMG_0486.JPEG",
     "photos/IMG_4771.JPEG",
     "photos/May05,2026untitled003.jpg",
     "photos/May05,2026untitled005.jpg",
@@ -41,7 +55,6 @@
     "photos/May05,2026untitled067.jpg",
     "photos/May05,2026untitled076.jpg",
     "photos/May05,2026untitled081.jpg",
-    "photos/May05,2026untitled090.jpg",
     "photos/May05,2026untitled094.jpg",
     "photos/May05,2026untitled121.jpg",
     "photos/May05,2026untitled153.jpg",
@@ -54,7 +67,6 @@
     "photos/May05,2026untitled296.jpg",
     "photos/May05,2026untitled299.jpg",
     "photos/May05,2026untitled302.jpg",
-    "photos/May05,2026untitled352.jpg",
     "photos/May05,2026untitled354.jpg",
     "photos/May05,2026untitled478.jpg",
     "photos/May05,2026untitled518.jpg",
@@ -227,14 +239,41 @@
       "date": "2026-08-11",
       "pillar": "Strength and Performance",
       "concept": "band assisted pull-ups assist most at the bottom and least at the top, so they fade exactly where the rep is hardest"
+    },
+    {
+      "date": "2026-08-13",
+      "pillar": "Simple Nutrition",
+      "concept": "the last ten minutes falling apart can be fueling rather than conditioning",
+      "source": "recovered from Buffer, published"
+    },
+    {
+      "date": "2026-08-14",
+      "pillar": "Community and Coaching",
+      "concept": "week one is socially hard rather than physically hard, nobody is watching you"
+    },
+    {
+      "date": "2026-08-14",
+      "pillar": "Strength and Performance",
+      "concept": "the warmup is the first working set, ramping the nervous system not a formality"
+    },
+    {
+      "date": "2026-08-14",
+      "pillar": "Real-Life Fitness",
+      "concept": "running treated as punishment versus running as a trainable skill"
+    },
+    {
+      "date": "2026-08-14",
+      "pillar": "Consistency and Accountability",
+      "concept": "two days a week still counts, weekend training is training",
+      "source": "already scheduled by Brian for 08-14 15:00"
     }
   ],
-  "last_pillar": "Strength and Performance",
+  "last_pillar": "Real-Life Fitness",
   "next_pillars": [
     "Consistency and Accountability",
     "Simple Nutrition",
     "Community and Coaching",
-    "Real-Life Fitness"
+    "Strength and Performance"
   ],
   "_pillar_note": "Simple Nutrition IS being served, as Meal Prep Monday recipe cards generated in Simpli Studio, not from the gym photo library. Do not treat it as unservable.",
   "photos_flagged_used_offline": [
