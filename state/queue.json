@@ -1,0 +1,57 @@
+{
+  "_note": "Approved content bank for the nightly Tough Country Fitness Instagram task. Every entry is finished and human approved. The nightly task picks the next entries whose caption has NOT already appeared in Buffer, so this file never needs to be written back to. Order is deliberate: pillars alternate across days.",
+  "channel_id": "6a74c8ea99afb4434913b71c",
+  "organization_id": "69e1763c07554030b2f8ab96",
+  "posts_per_day": 2,
+  "preferred_times": [
+    "09:00",
+    "12:00"
+  ],
+  "low_water_mark": 3,
+  "posts": [
+    {
+      "id": "b01",
+      "pillar": "Strength and Performance",
+      "headline": "The kip is a skill not a shortcut",
+      "concept": "kipping is a different movement not an easier one, earn strict pull-ups first",
+      "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/bank/post01.jpg",
+      "alt": "A man pulls his chin over a pull-up bar on a gym rig with his legs bent behind him.",
+      "caption": "Kipping gets called cheating by people who have never tried to do it well. 🤸 It is a different movement, not an easier one.\n\nA strict pull-up is a strength test. A kip is a coordination problem: hollow to arch, then drive the hips and let the bar come to you. Done right it lets you string reps together in a workout without your lats quitting on rep four. Done wrong it is a shoulder injury with a countdown on it, which is the real argument against it.\n\nThe order is what matters. Earn a handful of strict pull-ups first so the shoulder has something holding it together, then learn the swing on its own before you add the pull.\n\nWhich came first for you, strict or kipping?",
+      "hashtags": "#ToughCountryFitness #KippingPullUps #GymnasticsSkills #StrengthAndPerformance #Vegas702",
+      "first_comment": "The hollow and arch swing is worth practicing cold, before you are tired and reaching for reps. How many strict ones can you do right now?"
+    },
+    {
+      "id": "b02",
+      "pillar": "Consistency and Accountability",
+      "headline": "Easy weeks are on purpose",
+      "concept": "planned deload weeks, adaptation happens when load comes down",
+      "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/bank/post02.jpg",
+      "alt": "A man sits inside a gym rig with his hands clasped and head down, catching his breath between sets.",
+      "caption": "An easy week is not falling off. 🗓️ It is the part of the plan most people skip, and then they wonder why month three feels like wading through mud.\n\nTraining makes you tired before it makes you strong. The adaptation lands when the load comes down, not while it is going up. Push hard for three or four weeks, then take one where you cut the volume roughly in half and leave a couple of reps in the tank on every set. You are not losing that week. You are collecting on the previous three.\n\nThe tell is simple. When your warmup weights start feeling heavier than your working weights used to, you are overdue.\n\nWhen did you last take one on purpose rather than because life forced it?",
+      "hashtags": "#ToughCountryFitness #Deload #TrainSmart #RecoveryMatters #Vegas702",
+      "first_comment": "Forced rest weeks and planned ones do the same thing physically, but only one of them leaves you feeling like you are behind. What does your fourth week usually look like?"
+    },
+    {
+      "id": "b03",
+      "pillar": "Real-Life Fitness",
+      "headline": "Heat is a training variable",
+      "concept": "heat acclimation, train by effort not by the number on the board in summer",
+      "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/bank/post03.jpg",
+      "alt": "A man in a black shirt and shorts runs toward the camera across a sunlit parking lot outside the gym.",
+      "caption": "Training in a Nevada summer is not the same workout you did in March. 🌡️ Same weights, same reps, completely different demand.\n\nHeat is a load. Your body pushes blood toward the skin to cool you, which means less of it reaches working muscle, so your heart rate climbs at a pace that felt easy eight weeks ago. That is not you losing fitness. That is thermoregulation taking its cut. Acclimating takes roughly one to two weeks of consistent exposure and it is real: better sweat response, more blood volume, lower heart rate at the same effort.\n\nUntil then, go by effort instead of the number on the board, start hydrated rather than catching up mid session, and take the pace off the first round.\n\nHow much slower does summer make your usual pace?",
+      "hashtags": "#ToughCountryFitness #TrainingInHeat #SummerTraining #RealLifeFitness #Vegas702",
+      "first_comment": "Going out at your spring pace in July is the fastest way to blow up in round two. Do you shift to earlier sessions in summer, or just accept the slower splits?"
+    },
+    {
+      "id": "b04",
+      "pillar": "Consistency and Accountability",
+      "headline": "Feeling good is not a prerequisite",
+      "concept": "how you feel before a session is a poor predictor of the session, let the first set decide",
+      "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/bank/post04.jpg",
+      "alt": "A young man sits on a rowing machine with his head down and forearms on his knees, resting between intervals.",
+      "caption": "You will not feel good going into most of your best sessions. 😮‍💨 That is not a motivation problem. It is just what training feels like from the inside.\n\nThe days you feel sharp and the days you feel flat produce more similar work than you would guess. People hit lifetime numbers on days they nearly stayed home, and have forgettable sessions on days they felt unstoppable. Your read on your own state before the warmup is close to worthless as a predictor.\n\nSo stop using it as one. Warm up, do the first set, then decide. Most of the time the first set answers the question for you.\n\nWhat is the best session you have had on a day you did not want to be there?",
+      "hashtags": "#ToughCountryFitness #ShowUpAnyway #TrainingMindset #Consistency #Vegas702",
+      "first_comment": "The warmup is the honest test, not how you felt in the parking lot. How often does your first set change your mind?"
+    }
+  ]
+}
