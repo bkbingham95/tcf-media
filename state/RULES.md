@@ -1,40 +1,63 @@
 # Tough Country Fitness posting rules
 
-Standing rules for the photo-to-Instagram pipeline. Read this before any run.
+Standing rules for the photo-to-social pipeline. Read this before any run.
 
 ## Scheduling
 
-- **Instagram only right now.** Channel `tcfitness702`, id `6a74c8ea99afb4434913b71c`.
-  Do not post to the Facebook page unless Brian asks.
+- **Both platforms, as of 2026-08-18.** Every post goes to Instagram *and* the Facebook
+  page, mirrored: same image, caption, hashtags and first comment, same slot time.
+  - Instagram `tcfitness702`, Blotato accountId `65798`, platform `instagram`
+  - Facebook page Tough Country Fitness, Blotato accountId `43833`,
+    platform `facebook`, pageId `400966506670459`
 - **Posting schedule** (America/Los_Angeles, all seven days):
   `05:00, 09:00, 12:00, 13:30, 15:00, 17:30`
 - **If a requested time has already passed, do not ask and do not skip the post.
-  Fall back to the next available slot.** In Buffer that is `mode: "addToQueue"`,
-  which lands on the next open slot in the schedule above and skips filled ones.
-  Say which slot it resolved to.
-- Never schedule into a slot that already has a post. Check first with `list_posts`
-  filtered to the target day and channel.
+  Fall back to the next available slot** in the schedule above. Say which slot it
+  resolved to.
+- Never schedule into a slot that already has a post on that platform. Check first
+  with `blotato_list_posts` filtered to the target day.
 
-## Buffer mechanics
+## Blotato mechanics
 
-- Always schedule with `execute_mutation` on `createPost`. **Never** the `create_post`
-  tool: it silently drops the first comment.
-- Every post carries a `firstComment`. No exceptions.
-- Instagram metadata: `type: "post"`, `shouldShareToFeed: true`. Never reel or story,
-  the 4:5 crop is rejected there.
-- `schedulingType: "automatic"`, `needsApproval: false`, `aiAssisted: true`.
-- After every schedule call, read the post back with `get_post` and confirm the image
-  dimensions, alt text, and first comment actually landed. Do not report done without it.
-- On HTTP 429, the fix is disconnecting and reconnecting the Buffer connector. Waiting
-  does not clear it.
+- **Scheduling runs through Blotato.** Buffer is read-only history now: its free plan
+  rejects first comments outright, with `InvalidInputError: First comment requires a
+  paid plan`. Nothing is created in Buffer.
+- Schedule with `blotato_create_post`, one call per platform.
+- Every post carries a `firstComment`. No exceptions. Blotato supports it on both
+  Instagram and Facebook.
+- Do **not** set `mediaType`. Omitting it gives a normal feed post; `reel` and `story`
+  both reject the 4:5 crop.
+- `altText` is accepted for Instagram only. Blotato does not take it for Facebook, so
+  the Facebook copy of a mirrored post goes without it.
+- After every schedule call, confirm with `blotato_get_post_status` that the status is
+  `scheduled` and the time matches. Do not report done without it.
+- `Failed to fetch media URL: 400 Bad Request` means the composite was never pushed to
+  GitHub, or the URL is wrong. Fix the push, do not substitute an image.
+- A failed submission cannot be retried. Create a fresh post instead of polling it.
+- `get_post_status` returns `in-progress` for a submission that was **deleted** in the
+  Blotato UI, not an error. Only `blotato_list_posts` can confirm a post still exists.
+
+## Reading history
+
+`blotato_list_posts` returns every page in the workspace mixed together (Backyard
+Flocks, Nevada, Arizona Native Histories) and its items carry no account or page field.
+Tough Country posts are the ones whose text contains `#ToughCountryFitness`.
+
+Anything sent before 2026-08-18 lives only in Buffer and will not appear in Blotato at
+all. Anti-repeat checks have to read both.
 
 ## Image hosting
 
-- Buffer only accepts images by public URL. The cloud sandbox can reach GitHub and
-  nothing else, so the repo is the image host:
+- Blotato only accepts images by public URL, so the repo is the image host:
   `https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/<date>/slot<n>.jpg`
-- The composite must be committed and pushed **before** scheduling. Buffer downloads
+- The composite must be committed and pushed **before** scheduling. Blotato downloads
   the image at creation time and a 404 fails the post.
+- The sandbox proxy returns **403 for `raw.githubusercontent.com`**, so `curl` and
+  `wget` cannot read the bank or the images. Use `web_fetch` for repo files. Git over
+  SSH to `github.com` does work, so `git ls-remote` is a reliable way to confirm a push
+  landed.
+- `raw.githubusercontent.com` caches for about five minutes. Right after a push it can
+  still serve the old file. That is the CDN, not a failed push.
 - The sandbox cannot push to the repo. Either Brian pushes from Terminal, or the repo
   gets attached as a session source at task start, which grants real push credentials.
 - `device_bash` cannot delete files, so git leaves a stale `.git/index.lock`. Any push
@@ -54,12 +77,16 @@ Standing rules for the photo-to-Instagram pipeline. Read this before any run.
 
 ## Anti-repeat
 
-**Buffer sent history is the source of truth. `state/used.json` is not.** Posts created
-by hand in the Buffer UI, or by any other tool, never reach the ledger.
+**Published history is the source of truth. `state/used.json` is not.** Posts created
+by hand in a platform UI, or by any other tool, never reach the ledger.
+
+That history now lives in two places. Blotato holds everything from 2026-08-18 onward.
+Buffer holds everything before it. **Check both or you will re-post old content.**
 
 Before choosing a single concept, every run:
 
-1. `list_posts` with status `sent`, `channelIds` set, and a `dueAt` window covering **at
+1. `blotato_list_posts` for `instagram` and `facebook`, plus Buffer `list_posts` with
+   status `sent`, `channelIds` set, and a `dueAt` window covering **at
    least the last 7 days up to right now**. Do not use a fixed post count; recently sent
    posts fall outside a count-limited pull and that is exactly how repeats slip through.
 2. Read every caption returned. Write the topics down before picking anything.
@@ -86,6 +113,7 @@ stopped before they sent. Both had to be deleted. Assume this failure mode is li
 
 ## Working alongside Brian
 
-Brian edits the same queue in the Buffer UI while sessions are running. If a post flips
-to `draft` or returns 404 shortly after being scheduled, that is very likely him, not a
+Brian edits the same queue in the Blotato UI while sessions are running. If a post
+disappears, flips state, or returns 404 shortly after being scheduled, that is very
+likely him, not a
 bug. Stop mutating, read the current state, and ask before recreating anything.
