@@ -37,6 +37,30 @@
       "file": "photos/May05,2026untitled352.jpg",
       "used": "2026-08-14",
       "confidence": "confirmed"
+    },
+    {
+      "file": "photos/untitled-40.jpg",
+      "used": "2026-08-19",
+      "confidence": "confirmed",
+      "note": "matched by feature detection to out/2026-08-19/slot1.jpg"
+    },
+    {
+      "file": "photos/untitled-34.jpg",
+      "used": "2026-08-19",
+      "confidence": "confirmed",
+      "note": "matched by feature detection to out/2026-08-19/slot2.jpg"
+    },
+    {
+      "file": "photos/untitled-31.jpg",
+      "used": "2026-08-20",
+      "confidence": "confirmed",
+      "note": "out/2026-08-20/slot1.jpg"
+    },
+    {
+      "file": "photos/IMG_0312.JPG",
+      "used": "2026-08-20",
+      "confidence": "confirmed",
+      "note": "out/2026-08-20/slot2.jpg"
     }
   ],
   "unused_photos_remaining": [
@@ -266,6 +290,16 @@
       "pillar": "Consistency and Accountability",
       "concept": "two days a week still counts, weekend training is training",
       "source": "already scheduled by Brian for 08-14 15:00"
+    },
+    {
+      "date": "2026-08-20",
+      "pillar": "Consistency and Accountability",
+      "concept": "cut the session down instead of cancelling it, the hardest session is the one after a gap"
+    },
+    {
+      "date": "2026-08-20",
+      "pillar": "Strength and Performance",
+      "concept": "handstands respond to short frequent exposure rather than one long session, familiarity not strength"
     }
   ],
   "last_pillar": "Real-Life Fitness",
@@ -281,5 +315,7 @@
   ],
   "_offline_note": "Brian flagged May05,2026untitled750.jpg as already published. Posts before 2026-08-10 were uploaded straight into Buffer, so their source photos are not recoverable from post URLs. This ledger can only see what it schedules. Flag reuse when you spot it.",
   "_anti_repeat_warning": "This file is NOT a source of truth. Posts created outside this pipeline never reach it. On 2026-08-11 two posts were rebuilt nearly verbatim from concepts already published on 2026-08-10 because those were missing here. Always check Buffer sent history first.",
-  "_rotation_note": "Consistency and Accountability was skipped on 2026-08-12: five concepts had already run in seven days and a sixth was queued for that night. Crowding beats rotation order."
+  "_rotation_note": "Consistency and Accountability was skipped on 2026-08-12: five concepts had already run in seven days and a sixth was queued for that night. Crowding beats rotation order.",
+  "_library_warning": "2026-08-20: the photo library was replaced again before this date. photos/INDEX.json and unused_photos_remaining both describe the OLD May05 library; 43 of the 44 indexed files no longer exist on disk. The 29 files actually in photos/ were checked by ORB feature matching against every composite in out/: only untitled-40.jpg and untitled-34.jpg had been used. Rebuild INDEX.json before trusting it.",
+  "_bank_warning": "2026-08-20: every entry in state/queue.json (b01 through b06) has already been published to tcfitness702, verified against the live Instagram grid. The bank is exhausted, not merely low. Do not schedule from it."
 }
