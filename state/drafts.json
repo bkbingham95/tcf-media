@@ -2,18 +2,18 @@
   "_note": "Unpromoted Tough Country Fitness post candidates written by the tcf-bank-drafter scheduled task. NOTHING here publishes. The nightly scheduler (tcf-instagram-nightly-scheduler) reads queue.json only and cannot see this file. To approve a draft, move it into queue.json's posts array and drop the drafted_on, image_hosted and banner_text fields.",
   "drafts": [
     {
-      "id": "d01",
+      "id": "d05",
       "pillar": "Consistency and Accountability",
-      "headline": "It is a friction problem not a willpower problem",
-      "concept": "count the decisions between you and the door, remove them the night before instead of recruiting willpower",
-      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/78466ccc-e4d8-432b-bd0e-39757017ef7f.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi83ODQ2NmNjYy1lNGQ4LTQzMmItYmQwZS0zOTc1NzAxN2VmN2YucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzI4NzYyOCwiZXhwIjoxOTQ0OTY3NjI4fQ.CgtMw-VjHPKd4SUvdgaG8ukUbfqir5F_XAjeGAfCn-Y",
-      "alt": "An empty CrossFit gym before opening at dawn, a gym bag and jump rope set out on a plyo box near the rig, with the words IT IS NOT WILLPOWER stencilled on the bay door, FRICTION in rusted steel letters bolted to the pull-up rig, and Pack the bag tonight painted on the floor.",
-      "caption": "Count the decisions standing between you and the gym door. 🚪 That number predicts your attendance better than how motivated you feel.\n\nMissing a session is rarely one big act of quitting. It is six small ones. Where are my shorts. Is my water bottle clean. Do I have time to stop for coffee. What am I even training today. Every one of those is a fork in the road at five in the morning, and your brain is not at its sharpest defending the plan at that hour. Six forks is six chances to take the exit.\n\nSo cut the forks down to one. Bag packed the night before and sitting by the door or already in the truck. Shoes in the bag, not by the couch. Know what you are training before you go to sleep, even if it is just the word squats. When the only remaining decision is go or do not go, most people go. 💪\n\nWhat is the one thing you always end up hunting for on the way out the door?",
-      "hashtags": "#ToughCountryFitness #TrainingHabits #PackTheBagTonight #ConsistencyAndAccountability #Vegas702",
-      "first_comment": "The bag by the door works because it moves the decision to eight at night, when you are rested and reasonable, instead of five in the morning when you are neither. Where does your bag actually live between sessions?",
+      "headline": "Your memory rounds every number up",
+      "concept": "keep a log because memory inflates good days and deletes bad ones, last week's real number is the only honest starting point",
+      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/e3c3a79b-5c53-4c76-bd02-410d77ebdc7f.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi9lM2MzYTc5Yi01YzUzLTRjNzYtYmQwMi00MTBkNzdlYmRjN2YucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzI4ODYwMiwiZXhwIjoxOTQ0OTY4NjAyfQ.KoSrQIJm3e6o0SbkycJRL1Q4l4D3_44b_jbBaFOgUWw",
+      "alt": "A chalked gym whiteboard covered in names, weights and times under a single work light late at night, with YOUR MEMORY INFLATES chalked across the top, WRITE IT DOWN in battered acid green plank letters on the rig, and Next week needs it painted on the floor.",
+      "caption": "Ask someone what they squatted last Tuesday and watch the number get rounder as they say it. 📓 Nobody is lying. Memory just does this.\n\nIt keeps the best set and quietly loses the two ugly ones before it. It remembers that the weight moved and forgets that the last rep took eleven seconds. Six weeks of that and you have a story about your training instead of a record of it, which is a problem, because the only honest place to start next week is what actually happened last week.\n\nThree lines fixes it. Movement, weight and reps, and one word about how it went. Heavy. Easy. Ugly. The whiteboard is the gym's version of this and the notes app on your phone works just as well. The payoff shows up around week six, when you can look back and tell the difference between genuinely progressing and simply attending. 🧱\n\nDo you keep a log, or run on memory?",
+      "hashtags": "#ToughCountryFitness #TrainingLog #TrackYourProgress #ConsistencyAndAccountability #Vegas702",
+      "first_comment": "One word about how the set felt is worth more than the weight six weeks later, because it is the only part your memory will not reconstruct in your favour. What is the oldest training number you still remember, and do you trust it?",
       "drafted_on": "2026-08-20",
       "image_hosted": false,
-      "banner_text": "IT IS NOT WILLPOWER / FRICTION / Pack the bag tonight"
+      "banner_text": "YOUR MEMORY INFLATES / WRITE IT DOWN / Next week needs it"
     }
   ]
 }
