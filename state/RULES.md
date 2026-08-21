@@ -95,6 +95,27 @@ Before choosing a single concept, every run:
 On 2026-08-11 two posts were rebuilt **word for word** from concepts published on
 2026-08-10, because those posts were created outside this pipeline and the history pull
 stopped before they sent. Both had to be deleted. Assume this failure mode is live.
+
+On 2026-08-20 it happened again, from a different cause. `blotato_list_posts` returns at
+most **250 items per page**, newest first, and this workspace publishes roughly 40 posts a
+day across all its pages. One page therefore reaches back about **two days** no matter what
+`since` you asked for. The run asked for 21 days, got two, saw no match, and rescheduled two
+posts that had gone out four days earlier. **Always page through with the returned `cursor`
+until it stops coming back, and judge coverage by the oldest post you actually saw, not by
+the `since` you requested.** If coverage falls short, schedule nothing.
+
+### The `used` flag in `queue.json`
+
+History checking is the braces. `queue.json` schema v2 is the belt: every entry carries
+`used`, `posted_on` and `posted_to`.
+
+- `used: true` is **authoritative and outranks history**. An entry with it set is never
+  scheduled again, no history lookup required.
+- Set `used` true when an entry is **scheduled**, not when it publishes. The gap between
+  the two is where duplicates get in.
+- The nightly scheduler **only reads** this file; it has no push credentials. Flags get set
+  by an interactive session or by hand, then pushed.
+- Never flip `used` back to false to clear a low-water warning. Add new entries instead.
 - The ledger **cannot detect a reused photo**. Posts before 2026-08-10 were uploaded
   straight into Buffer, so their image URLs say nothing about the source file. Brian
   flags photo reuse manually; record every flag in `photos_flagged_used_offline`.

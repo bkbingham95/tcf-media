@@ -1,5 +1,13 @@
 {
-  "_note": "Approved content bank for the nightly Tough Country Fitness Instagram task. Every entry is finished and human approved. The nightly task picks the next entries whose caption has NOT already appeared in Buffer, so this file never needs to be written back to. Order is deliberate: pillars alternate across days.",
+  "_note": "Approved content bank for the nightly Tough Country Fitness scheduler. Every entry is finished and human approved. The nightly task READS this file and never writes to it. Entries are retired by setting \"used\": true, which is done by an interactive session with Claude or by hand, then pushed.",
+  "_schema": {
+    "version": 2,
+    "used": "REQUIRED boolean on every post. true means it has been published and must never be scheduled again. This flag is authoritative and outranks anything inferred from Blotato or Buffer history. The nightly task skips any entry with used true without checking history at all.",
+    "posted_on": "Date the entry first went out, YYYY-MM-DD in America/Los_Angeles, or null if used is false. Informational only. null while used is true means the date was never recorded, not that it is unused.",
+    "posted_to": "Array of destinations it went to, any of \"instagram\" and \"facebook\", or null if used is false.",
+    "retire_rule": "Set used true at the moment an entry is SCHEDULED, not after it publishes. A scheduled post is spoken for, and the gap between scheduling and publishing is exactly where a duplicate slips in.",
+    "unused_count": "The nightly task's low-water warning counts entries where used is false. Keep this above low_water_mark by adding new entries, never by flipping used back to false."
+  },
   "channel_id": "6a74c8ea99afb4434913b71c",
   "organization_id": "69e1763c07554030b2f8ab96",
   "posts_per_day": 2,
@@ -12,6 +20,12 @@
     {
       "id": "b01",
       "pillar": "Strength and Performance",
+      "used": true,
+      "posted_on": "2026-08-16",
+      "posted_to": [
+        "instagram",
+        "facebook"
+      ],
       "headline": "The kip is a skill not a shortcut",
       "concept": "kipping is a different movement not an easier one, earn strict pull-ups first",
       "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/bank/post01.jpg",
@@ -23,6 +37,12 @@
     {
       "id": "b02",
       "pillar": "Consistency and Accountability",
+      "used": true,
+      "posted_on": null,
+      "posted_to": [
+        "instagram",
+        "facebook"
+      ],
       "headline": "Easy weeks are on purpose",
       "concept": "planned deload weeks, adaptation happens when load comes down",
       "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/bank/post02.jpg",
@@ -34,6 +54,12 @@
     {
       "id": "b03",
       "pillar": "Real-Life Fitness",
+      "used": true,
+      "posted_on": null,
+      "posted_to": [
+        "instagram",
+        "facebook"
+      ],
       "headline": "Heat is a training variable",
       "concept": "heat acclimation, train by effort not by the number on the board in summer",
       "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/bank/post03.jpg",
@@ -45,6 +71,12 @@
     {
       "id": "b04",
       "pillar": "Consistency and Accountability",
+      "used": true,
+      "posted_on": null,
+      "posted_to": [
+        "instagram",
+        "facebook"
+      ],
       "headline": "Feeling good is not a prerequisite",
       "concept": "how you feel before a session is a poor predictor of the session, let the first set decide",
       "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/bank/post04.jpg",
@@ -56,6 +88,12 @@
     {
       "id": "b05",
       "pillar": "Community and Coaching",
+      "used": true,
+      "posted_on": null,
+      "posted_to": [
+        "instagram",
+        "facebook"
+      ],
       "headline": "Scaling is not backing off",
       "concept": "scaling changes the load not the stimulus, the written weight is a starting point",
       "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/2026-08-19/slot1.jpg",
@@ -67,6 +105,12 @@
     {
       "id": "b06",
       "pillar": "Strength and Performance",
+      "used": true,
+      "posted_on": null,
+      "posted_to": [
+        "instagram",
+        "facebook"
+      ],
       "headline": "The carry is the most useful lift",
       "concept": "loaded carries build grip midline and shoulders at once and transfer directly to daily life",
       "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/2026-08-19/slot2.jpg",
