@@ -1,4 +1,61 @@
 {
   "_note": "Unpromoted Tough Country Fitness post candidates written by the tcf-bank-drafter scheduled task. NOTHING here publishes. The nightly scheduler (tcf-instagram-nightly-scheduler) reads queue.json only and cannot see this file. To approve a draft, move it into queue.json's posts array and drop the drafted_on, image_hosted and banner_text fields.",
-  "drafts": []
+  "drafts": [
+    {
+      "id": "d06",
+      "pillar": "Simple Nutrition",
+      "headline": "Everyone counts protein, nobody counts fiber",
+      "concept": "fiber is the nutrient nobody tracks, most adults run at roughly half the recommendation, and the gap shows up as appetite and digestion rather than on the scale",
+      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/08d2ec12-00ec-4449-aad5-f352ecefb341.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi8wOGQyZWMxMi0wMGVjLTQ0NDktYWFkNS1mMzUyZWNlZmIzNDEucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzU4MjU5OSwiZXhwIjoxOTQ1MjYyNTk5fQ.5dWbqd5dXKlv3ko5osA17u9j5NpxaKYojWUNiLipANg",
+      "alt": "Black beans, a split avocado, raspberries and dark rye bread staged on a bench beside a rack of black bumper plates in a CrossFit gym at golden hour, with EVERYONE COUNTS PROTEIN across the top, FIBER in eroded blood red letters standing on the floor, and Nobody counts this one below.",
+      "caption": "Ask a gym full of people what their protein target is and every hand goes up. 🫘 Ask about fiber and the room goes quiet.\n\nMost American adults land somewhere around 15 grams a day. The general recommendation sits closer to 25 to 38 depending on size and sex, which means a lot of us are running at roughly half. That is not a moral failing, it is just what happens when most of the day's calories come from things that had the fiber processed out of them on the way to the shelf. The cost usually shows up as being hungry ninety minutes after a meal, and as digestion that never quite settles down.\n\nFixing it is boring in the best possible way. Beans in the chili. Berries on the yogurt instead of the granola. Leave the skin on the potato. Whole grain bread instead of the soft white stuff. Add it gradually rather than all at once and drink water alongside it, because a sudden jump is uncomfortable in a way that will have you quitting by Thursday. 🥣\n\nAnyone dealing with a gut condition should sort this out with their doctor rather than a caption, since the right answer there is genuinely individual.\n\nWhat is the one high fiber food you actually enjoy eating?",
+      "hashtags": "#ToughCountryFitness #Fiber #SimpleNutrition #EatWholeFoods #Vegas702",
+      "first_comment": "A rough gauge: if you cannot name one thing you ate yesterday that had skin, seeds or beans in it, the number was probably low. What does your usual breakfast look like?",
+      "drafted_on": "2026-08-24",
+      "image_hosted": false,
+      "banner_text": "EVERYONE COUNTS PROTEIN / FIBER / Nobody counts this one"
+    },
+    {
+      "id": "d07",
+      "pillar": "Real-Life Fitness",
+      "headline": "Balance goes before strength does",
+      "concept": "single leg balance fades quietly and early because flat floors never challenge it, and it is trainable in two minutes a day with no equipment",
+      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/6800ca66-6847-44a6-a30e-1083132c650d.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi82ODAwY2E2Ni02ODQ3LTQ0YTYtYTMwZS0xMDgzMTMyYzY1MGQucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzU4MjYzNSwiZXhwIjoxOTQ1MjYyNjM1fQ.p7jY_d4iIDNHRnc2Jlmt_p3N9lGdrYEo5IN--mYSruE",
+      "alt": "An empty CrossFit gym before opening at dawn with work boots, a duffel bag and a truck key on a plyo box near a half raised bay door, IT GOES QUIETLY FIRST stencilled on the door, BALANCE in rusted orange steel letters bolted to the rig, and Stand on one leg below.",
+      "caption": "You find out your balance is gone at the worst possible moment. 🦵 A curb, a wet floor, a loose rock halfway down a trail.\n\nBalance is not one thing. It is three systems arguing quietly: the inner ear, your eyes, and the sensors in your feet and ankles reporting back where the ground is. That last group degrades fastest when nothing asks anything of it, and a life spent on flat floors in cushioned shoes asks almost nothing. Strength holds up longer than people expect. Balance does not, and it starts slipping decades earlier than anybody assumes it does.\n\nThe useful part is how cheap it is to train and how fast it answers. Stand on one leg while the coffee brews. Thirty seconds a side, eyes open. When that stops being interesting, close your eyes, or stand on a folded towel, or turn your head side to side while you hold it. Two minutes a day, nothing to buy, nothing to schedule. 🥾\n\nTry it right now: how long can you hold one leg with your eyes shut?",
+      "hashtags": "#ToughCountryFitness #Balance #SingleLegWork #RealLifeFitness #Vegas702",
+      "first_comment": "Eyes closed is the honest version, because vision quietly covers for a lot and hides how much the ankle has stopped paying attention. Which side of yours is noticeably worse?",
+      "drafted_on": "2026-08-24",
+      "image_hosted": false,
+      "banner_text": "IT GOES QUIETLY FIRST / BALANCE / Stand on one leg"
+    },
+    {
+      "id": "d08",
+      "pillar": "Strength and Performance",
+      "headline": "The belt is not the brace",
+      "concept": "bracing is a low breath held against a tight midsection and the belt is only something to push into, so a belt cannot create pressure you never made",
+      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/92ae4a23-9e4a-47d0-9bed-fad4af9d65d8.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi85MmFlNGEyMy05ZTRhLTQ3ZDAtOWJlZC1mYWQ0YWY5ZDY1ZDgucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzU4MjY3NCwiZXhwIjoxOTQ1MjYyNjc0fQ.HDBtGT_jILs16ze3szj6dDYr3L2__NHDYIZ-NuosaXE",
+      "alt": "A loaded barbell with a leather belt draped over it on the rubber floor of a CrossFit gym as a fiery sunset burns through the open bay door, with BREATH BEFORE THE BAR across the top, BRACE FIRST chiseled into the cinder block wall glowing electric blue, and Then move the bar below.",
+      "caption": "The belt does not hold your back together. 🫁 The air you trapped behind it does, and the belt is just something for that air to push against.\n\nHere is the sequence most people never get taught. Big breath low into the belly and the sides of the ribcage, not up into the chest. Then tighten everything around it like you are about to take a punch. That pressurised drum is what keeps your spine stacked while a heavy bar tries to fold you in half. A belt raises the ceiling on how much pressure you can build, which is exactly why it helps at heavy loads, but it cannot manufacture pressure you never made. Worn over a soft midsection it is a costume, not a tool.\n\nSo practise it with nothing on the bar first. Breathe in low, brace hard, and try to hold that while you walk the length of the gym. Then do it under an empty bar. Then keep doing it at every weight, not only the ones that scare you, because a brace you remember at ninety percent and forget at sixty is not really yours yet. If you have blood pressure concerns, that is a conversation with your doctor before you go hunting for heavy singles. 🏋️\n\nAt what weight do you actually start thinking about your breath?",
+      "hashtags": "#ToughCountryFitness #Bracing #MidlineStability #StrengthAndPerformance #Vegas702",
+      "first_comment": "If you can talk normally partway through a heavy rep, you are not braced, you are just holding a bar. Do you wear a belt, and did anybody ever teach you when to put it on?",
+      "drafted_on": "2026-08-24",
+      "image_hosted": false,
+      "banner_text": "BREATH BEFORE THE BAR / BRACE FIRST / Then move the bar"
+    },
+    {
+      "id": "d09",
+      "pillar": "Consistency and Accountability",
+      "headline": "One session is not a data point",
+      "concept": "daily performance swings ten to fifteen percent on sleep, food and stress, so training only reads as signal at the scale of a month",
+      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/7f2964f8-7780-4e1e-89b7-32ad38a124dc.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi83ZjI5NjRmOC03NzgwLTRlMWUtODliNy0zMmFkMzhhMTI0ZGMucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzU4MjcwMiwiZXhwIjoxOTQ1MjYyNzAyfQ.ZqO1cA-_YA1sifg15vQKKOucQyN_BjwSz3lLeuVU1d8",
+      "alt": "Rowers, stacked wall balls and a scuffed wall ball target under cold storm light in a CrossFit gym, with ONE SESSION MEANS NOTHING across the top, ZOOM OUT in weathered molten gold western block letters, and Judge it by months below.",
+      "caption": "A single session tells you almost nothing about your training. 🔭 It mostly tells you about your last three days.\n\nSleep, food, stress, hydration and where you happen to be in a bad week at work can swing what you lift on a given day by ten or fifteen percent, without one thing having actually changed about your fitness. So a rough Tuesday is not evidence. A great Thursday is not evidence either. Both are weather. Judge yourself at that resolution and you will spend the year swinging between quitting and overhauling the whole plan, and neither one was ever warranted by what you saw.\n\nAdaptation runs on a slower clock. Strength changes take something like four to six weeks before they show up in a way you can trust. So ask the month instead. Did the average working weight go up. Did the same conditioning piece come in faster than it did in July. Are you doing more total work than you were. Those questions have real answers. How did today go does not. 📆\n\nWhat is a stretch of training you wrote off at the time that turned out fine in hindsight?",
+      "hashtags": "#ToughCountryFitness #ZoomOut #TrainingProgress #ConsistencyAndAccountability #Vegas702",
+      "first_comment": "The cheapest fix is comparing this month against the same month last quarter instead of against yesterday, which usually turns a discouraging week into a boring upward line. How far back do you look before you decide something is not working?",
+      "drafted_on": "2026-08-24",
+      "image_hosted": false,
+      "banner_text": "ONE SESSION MEANS NOTHING / ZOOM OUT / Judge it by months"
+    }
+  ]
 }
