@@ -1,6 +1,6 @@
 {
   "_note": "Re-indexed 2026-08-10. The photo library was fully replaced, so the photo usage ledger was reset to the 44 new files. Concept history is preserved and still governs anti-repeat. Photos used before 2026-08-10 refer to files no longer in the repo.",
-  "style_index": 2,
+  "style_index": 0,
   "photos": [
     {
       "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
@@ -64,54 +64,45 @@
     }
   ],
   "unused_photos_remaining": [
-    "photos/IMG_0180.JPEG",
-    "photos/IMG_4771.JPEG",
-    "photos/May05,2026untitled003.jpg",
-    "photos/May05,2026untitled005.jpg",
-    "photos/May05,2026untitled031-2.jpg",
-    "photos/May05,2026untitled032.jpg",
-    "photos/May05,2026untitled034.jpg",
-    "photos/May05,2026untitled040.jpg",
-    "photos/May05,2026untitled052.jpg",
-    "photos/May05,2026untitled057.jpg",
-    "photos/May05,2026untitled058.jpg",
-    "photos/May05,2026untitled063.jpg",
-    "photos/May05,2026untitled067.jpg",
-    "photos/May05,2026untitled076.jpg",
-    "photos/May05,2026untitled081.jpg",
-    "photos/May05,2026untitled094.jpg",
-    "photos/May05,2026untitled121.jpg",
-    "photos/May05,2026untitled153.jpg",
-    "photos/May05,2026untitled183.jpg",
-    "photos/May05,2026untitled186.jpg",
-    "photos/May05,2026untitled216.jpg",
-    "photos/May05,2026untitled236.jpg",
-    "photos/May05,2026untitled251.jpg",
-    "photos/May05,2026untitled264.jpg",
-    "photos/May05,2026untitled296.jpg",
-    "photos/May05,2026untitled299.jpg",
-    "photos/May05,2026untitled302.jpg",
-    "photos/May05,2026untitled354.jpg",
-    "photos/May05,2026untitled478.jpg",
-    "photos/May05,2026untitled518.jpg",
-    "photos/May05,2026untitled552.jpg",
-    "photos/May05,2026untitled703.jpg",
-    "photos/May05,2026untitled750.jpg",
-    "photos/May05,2026untitled784.jpg",
-    "photos/untitled-72.jpg",
-    "photos/untitled-76.jpg",
-    "photos/untitled-82.jpg",
-    "photos/untitled-87.jpg"
+    "photos/4EDC7B5D-0724-4BC3-A8AC-79164AFDA237.jpeg",
+    "photos/IMG_0312.JPG",
+    "photos/IMG_0314.JPG",
+    "photos/IMG_0538.JPG",
+    "photos/IMG_4300.jpeg",
+    "photos/IMG_9921.JPG",
+    "photos/untitled-12.jpg",
+    "photos/untitled-14.jpg",
+    "photos/untitled-18.jpg",
+    "photos/untitled-2.jpg",
+    "photos/untitled-20.jpg",
+    "photos/untitled-21.jpg",
+    "photos/untitled-26.jpg",
+    "photos/untitled-3.jpg",
+    "photos/untitled-32.jpg",
+    "photos/untitled-53.jpg",
+    "photos/untitled-68.jpg",
+    "photos/untitled-75.jpg",
+    "photos/untitled-78.jpg",
+    "photos/untitled-8.jpg",
+    "photos/untitled-82.jpg"
   ],
   "retired_photos": [
+    "photos/16FCEAAF-C1FD-4957-9177-118260692A24_1_105_c.jpeg",
     "photos/247EAEE3-DB3D-4A1C-9850-09CFE192C5F1.jpeg",
     "photos/3B76EAD1-4E61-495A-A1D4-FF340DDB1563_1_105_c.jpeg",
     "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
     "photos/572F4852-DE54-44AD-BAFA-CF1744B757B1_1_105_c.jpeg",
     "photos/7D36D465-46D9-4076-AA2D-3B83DCADF8AE.jpeg",
-    "photos/16FCEAAF-C1FD-4957-9177-118260692A24_1_105_c.jpeg",
     "photos/BE24CB50-94DC-4566-8424-C5C65DBCBC9F_1_105_c.jpeg",
-    "photos/CCD4349B-130F-4776-B450-27B8A5867C80.jpeg"
+    "photos/CCD4349B-130F-4776-B450-27B8A5867C80.jpeg",
+    "photos/IMG_9944.jpeg",
+    "photos/untitled-15.jpg",
+    "photos/untitled-31.jpg",
+    "photos/untitled-34.jpg",
+    "photos/untitled-35.jpg",
+    "photos/untitled-40.jpg",
+    "photos/untitled-7.jpg",
+    "photos/untitled-83.jpg"
   ],
   "concepts": [
     {
@@ -304,18 +295,18 @@
   ],
   "last_pillar": "Real-Life Fitness",
   "next_pillars": [
-    "Consistency and Accountability",
-    "Simple Nutrition",
     "Community and Coaching",
-    "Strength and Performance"
+    "Strength and Performance",
+    "Consistency and Accountability",
+    "Real-Life Fitness"
   ],
-  "_pillar_note": "Simple Nutrition IS being served, as Meal Prep Monday recipe cards generated in Simpli Studio, not from the gym photo library. Do not treat it as unservable.",
+  "_pillar_note": "Simple Nutrition was skipped in the 2026-08-23 batch because it is served as Simpli Studio recipe cards, not gym photos. It stays owed.",
   "photos_flagged_used_offline": [
     "photos/May05,2026untitled750.jpg"
   ],
   "_offline_note": "Brian flagged May05,2026untitled750.jpg as already published. Posts before 2026-08-10 were uploaded straight into Buffer, so their source photos are not recoverable from post URLs. This ledger can only see what it schedules. Flag reuse when you spot it.",
   "_anti_repeat_warning": "This file is NOT a source of truth. Posts created outside this pipeline never reach it. On 2026-08-11 two posts were rebuilt nearly verbatim from concepts already published on 2026-08-10 because those were missing here. Always check Buffer sent history first.",
   "_rotation_note": "Consistency and Accountability was skipped on 2026-08-12: five concepts had already run in seven days and a sixth was queued for that night. Crowding beats rotation order.",
-  "_library_warning": "2026-08-20: the photo library was replaced again before this date. photos/INDEX.json and unused_photos_remaining both describe the OLD May05 library; 43 of the 44 indexed files no longer exist on disk. The 29 files actually in photos/ were checked by ORB feature matching against every composite in out/: only untitled-40.jpg and untitled-34.jpg had been used. Rebuild INDEX.json before trusting it.",
-  "_bank_warning": "2026-08-20: every entry in state/queue.json (b01 through b06) has already been published to tcfitness702, verified against the live Instagram grid. The bank is exhausted, not merely low. Do not schedule from it."
+  "_library_warning": "2026-08-23: photos/INDEX.json has been REBUILT from the files actually on disk and is trustworthy again. 29 photos indexed, 8 retired plus untitled-40 and untitled-34 (ORB matched to old composites) plus the 6 consumed by bank entries b11-b16.",
+  "_bank_warning": "2026-08-23: bank refilled. b01-b10 are all published (each carries posted_on). b11-b17 are fresh and unscheduled. b11-b16 are repo-hosted at out/bank/b11.jpg..b16.jpg and REQUIRE a push before the nightly scheduler runs. b17 is the promoted d05 draft on a Simpli-hosted URL and needs no push."
 }
