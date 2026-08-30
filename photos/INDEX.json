@@ -475,6 +475,1216 @@
       ],
       "bottom_third_busy": false,
       "quality_flag": null
+    },
+    {
+      "file": "photos/August08,2023untitled044.jpeg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "Black and white shot of a woman locking a barbell out overhead inside a gym rig.",
+      "people": 1,
+      "group": "solo",
+      "movement": "push press",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/August08,2023untitled088-Edit.jpeg",
+      "size": [
+        1024,
+        683
+      ],
+      "desc": "A woman leans back on gymnastics rings mid ring row while two people talk behind her.",
+      "people": 3,
+      "group": "small group",
+      "movement": "ring rows",
+      "pillars": [
+        "Strength and Performance",
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_0146.JPG",
+      "size": [
+        5184,
+        3456
+      ],
+      "desc": "An empty gym bay at rest, roll-up door open to daylight with a bike and bench in shadow.",
+      "people": 0,
+      "group": "none",
+      "movement": "empty gym",
+      "pillars": [
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_0277.JPG",
+      "size": [
+        5184,
+        3456
+      ],
+      "desc": "A class works out under a tall arched window, some on the floor and one standing at the rig.",
+      "people": 5,
+      "group": "class",
+      "movement": "class workout",
+      "pillars": [
+        "Community and Coaching",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_0587.JPG",
+      "size": [
+        3549,
+        1661
+      ],
+      "desc": "A wide view across an almost empty gym floor with a couple of members in the distance.",
+      "people": 2,
+      "group": "wide room",
+      "movement": "gym floor",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "very wide panoramic crop, subjects small"
+    },
+    {
+      "file": "photos/IMG_1372.JPG",
+      "size": [
+        4032,
+        3024
+      ],
+      "desc": "A row of members hold the top of a push-up in a line across the gym floor while a coach watches.",
+      "people": 6,
+      "group": "class",
+      "movement": "push-ups",
+      "pillars": [
+        "Community and Coaching",
+        "Consistency and Accountability",
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_1376.JPG",
+      "size": [
+        4032,
+        3024
+      ],
+      "desc": "A low angle down a line of members doing push-ups on the gym floor, a clipboard set down in front.",
+      "people": 5,
+      "group": "class",
+      "movement": "push-ups",
+      "pillars": [
+        "Community and Coaching",
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_4419.jpeg",
+      "size": [
+        4032,
+        3024
+      ],
+      "desc": "A woman in a pink shirt stands with a barbell locked out overhead in a wide open gym under timber trusses.",
+      "people": 1,
+      "group": "solo",
+      "movement": "overhead press",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_4724.JPG",
+      "size": [
+        3840,
+        2160
+      ],
+      "desc": "A class stands around loaded barbells in front of a painted FITNESS mural.",
+      "people": 10,
+      "group": "class",
+      "movement": "barbell class",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_4739.JPG",
+      "size": [
+        2160,
+        3840
+      ],
+      "desc": "Members gather around a loaded barbell, a large bumper plate filling the foreground out of focus.",
+      "people": 4,
+      "group": "small group",
+      "movement": "barbell setup",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_4757.JPG",
+      "size": [
+        3213,
+        5712
+      ],
+      "desc": "A lone member sets up over a barbell in a large open gym with tall arched windows behind.",
+      "people": 2,
+      "group": "solo",
+      "movement": "deadlift setup",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_4760.JPG",
+      "size": [
+        3213,
+        5712
+      ],
+      "desc": "A member in red stands over a loaded barbell mid deadlift while another looks on from the side.",
+      "people": 2,
+      "group": "pair",
+      "movement": "deadlift",
+      "pillars": [
+        "Strength and Performance",
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_4785.JPG",
+      "size": [
+        2160,
+        3840
+      ],
+      "desc": "A woman drives back on a rowing machine while a group works out behind her.",
+      "people": 5,
+      "group": "class",
+      "movement": "rowing",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_4834.JPG",
+      "size": [
+        2160,
+        3840
+      ],
+      "desc": "A member stands with a barbell at the rig while a class trains further down the floor.",
+      "people": 5,
+      "group": "class",
+      "movement": "barbell class",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5271.JPG",
+      "size": [
+        3213,
+        5712
+      ],
+      "desc": "A group of members runs along the street outside the gym past gravel landscaping in morning sun.",
+      "people": 6,
+      "group": "class",
+      "movement": "running",
+      "pillars": [
+        "Real-Life Fitness",
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5272.JPG",
+      "size": [
+        3213,
+        5712
+      ],
+      "desc": "Members run down a residential street lined with trees during an outdoor run.",
+      "people": 6,
+      "group": "class",
+      "movement": "running",
+      "pillars": [
+        "Real-Life Fitness",
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5274.JPG",
+      "size": [
+        3213,
+        5712
+      ],
+      "desc": "An open desert street under blue sky with distant runners and mountains on the horizon.",
+      "people": 2,
+      "group": "wide room",
+      "movement": "running route",
+      "pillars": [
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": "subjects very small in frame"
+    },
+    {
+      "file": "photos/IMG_5289.JPG",
+      "size": [
+        1807,
+        2409
+      ],
+      "desc": "A woman holds the top of a push-up beside a wall with the day's workout posted above her.",
+      "people": 1,
+      "group": "solo",
+      "movement": "push-ups",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5290.JPG",
+      "size": [
+        3213,
+        5712
+      ],
+      "desc": "A member lies flat on the floor at the bottom of a burpee in a wide empty bay.",
+      "people": 1,
+      "group": "solo",
+      "movement": "burpees",
+      "pillars": [
+        "Consistency and Accountability",
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5294.JPG",
+      "size": [
+        3213,
+        5712
+      ],
+      "desc": "A woman lifts a barbell out of the rack under tall windows.",
+      "people": 1,
+      "group": "solo",
+      "movement": "barbell setup",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5299.JPG",
+      "size": [
+        3213,
+        5712
+      ],
+      "desc": "A man in black holds a push-up position on mats with plyo boxes stacked behind him.",
+      "people": 3,
+      "group": "solo",
+      "movement": "push-ups",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5300.JPG",
+      "size": [
+        3213,
+        5712
+      ],
+      "desc": "A member lies chest down on the gym floor partway through a burpee.",
+      "people": 1,
+      "group": "solo",
+      "movement": "burpees",
+      "pillars": [
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5303.JPG",
+      "size": [
+        3213,
+        5712
+      ],
+      "desc": "A member hangs from the pull-up bar on the rig with a blurred bucket in the foreground.",
+      "people": 1,
+      "group": "solo",
+      "movement": "pull-ups",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5313.JPG",
+      "size": [
+        3213,
+        5712
+      ],
+      "desc": "A lone runner heads down a sunlit residential street with mountains in the distance.",
+      "people": 1,
+      "group": "solo",
+      "movement": "running",
+      "pillars": [
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5414.JPG",
+      "size": [
+        2160,
+        2619
+      ],
+      "desc": "A large group of members poses outside the brick gym under the Tough Country Fitness sign.",
+      "people": 18,
+      "group": "large group",
+      "movement": "group photo",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5437.JPG",
+      "size": [
+        2160,
+        3840
+      ],
+      "desc": "A runner comes up the road toward the camera with the gym lot and desert hills behind.",
+      "people": 1,
+      "group": "solo",
+      "movement": "running",
+      "pillars": [
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5441.JPG",
+      "size": [
+        2160,
+        2658
+      ],
+      "desc": "A man runs across a parking lot in the early morning with a playground behind him.",
+      "people": 1,
+      "group": "solo",
+      "movement": "running",
+      "pillars": [
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5466.JPG",
+      "size": [
+        2160,
+        3840
+      ],
+      "desc": "A woman presses up from a push-up on the gym floor with the whiteboard and other members behind.",
+      "people": 3,
+      "group": "small group",
+      "movement": "push-ups",
+      "pillars": [
+        "Consistency and Accountability",
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5469.JPG",
+      "size": [
+        2160,
+        3840
+      ],
+      "desc": "Two members do push-ups together on a mat in the corner of the gym.",
+      "people": 2,
+      "group": "pair",
+      "movement": "push-ups",
+      "pillars": [
+        "Community and Coaching",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5472.JPG",
+      "size": [
+        2160,
+        3840
+      ],
+      "desc": "A man in a cap pulls his chin toward the bar on the rig while others train around him.",
+      "people": 4,
+      "group": "small group",
+      "movement": "pull-ups",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5477.JPG",
+      "size": [
+        2160,
+        3840
+      ],
+      "desc": "A man holds a push-up on the gym floor near a table and the day's whiteboards.",
+      "people": 1,
+      "group": "solo",
+      "movement": "push-ups",
+      "pillars": [
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5485.JPG",
+      "size": [
+        1223,
+        2040
+      ],
+      "desc": "A runner moves along a neighbourhood street lined with block walls and trees.",
+      "people": 1,
+      "group": "solo",
+      "movement": "running",
+      "pillars": [
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_5492.JPG",
+      "size": [
+        2160,
+        3840
+      ],
+      "desc": "A member runs up a sidewalk past a stop sign under clear blue sky.",
+      "people": 1,
+      "group": "solo",
+      "movement": "running",
+      "pillars": [
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_9865.JPG",
+      "size": [
+        1600,
+        1067
+      ],
+      "desc": "A wide view of the empty gym floor with rowers, bikes and rings under arched windows.",
+      "people": 0,
+      "group": "none",
+      "movement": "empty gym",
+      "pillars": [
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/IMG_9949.JPG",
+      "size": [
+        4032,
+        3024
+      ],
+      "desc": "A member stands up a loaded barbell in the rack while a coach watches from the side.",
+      "people": 2,
+      "group": "pair",
+      "movement": "barbell squat",
+      "pillars": [
+        "Strength and Performance",
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled009.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A dense rack of blue and black jump ropes hanging on the gym wall.",
+      "people": 0,
+      "group": "none",
+      "movement": "equipment detail",
+      "pillars": [
+        "Consistency and Accountability",
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled013.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "Barbells stood on end against a concrete wall, shot close on the sleeve ends.",
+      "people": 0,
+      "group": "none",
+      "movement": "equipment detail",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled033.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A moody low-key shot of a woman pressing up under a bar with window light behind her.",
+      "people": 1,
+      "group": "solo",
+      "movement": "push-ups",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled035.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A woman holds an incline push-up position against a rig upright with the whiteboard behind.",
+      "people": 1,
+      "group": "solo",
+      "movement": "incline push-up",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled042.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A silhouetted member holds a push-up on the floor in front of a wall rack of barbells.",
+      "people": 1,
+      "group": "solo",
+      "movement": "push-ups",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled073.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A woman at the bottom of an air squat framed through the hole of a bumper plate.",
+      "people": 1,
+      "group": "solo",
+      "movement": "air squat",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled079.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "Two women walk toward the fan bikes past the open bay door between efforts.",
+      "people": 2,
+      "group": "pair",
+      "movement": "between efforts",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled086.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A man crouches at the water cooler drinking from a bottle during a session.",
+      "people": 1,
+      "group": "solo",
+      "movement": "hydrating",
+      "pillars": [
+        "Real-Life Fitness",
+        "Simple Nutrition"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled093.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A close-up of kettlebells lined up in a row with their weights stamped on the bells.",
+      "people": 0,
+      "group": "none",
+      "movement": "equipment detail",
+      "pillars": [
+        "Strength and Performance",
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled118.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A woman in a Murph tank stands hands on hips in the doorway catching her breath.",
+      "people": 1,
+      "group": "solo",
+      "movement": "rest between rounds",
+      "pillars": [
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled129.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A close-up of a smiling woman checking the watch on her wrist after a set.",
+      "people": 1,
+      "group": "solo",
+      "movement": "checking watch",
+      "pillars": [
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled154.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "Two women walk and talk across the parking lot after a session.",
+      "people": 2,
+      "group": "pair",
+      "movement": "post-workout talk",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled167.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "Two members stand talking on the gym floor, one in a red crew shirt facing away.",
+      "people": 2,
+      "group": "pair",
+      "movement": "coaching conversation",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled168.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A woman holds a jump rope stretched overhead with both arms in the dim gym.",
+      "people": 1,
+      "group": "solo",
+      "movement": "jump rope",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled235.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "Resistance bands and barbells hang together on a storage rack, shot close.",
+      "people": 0,
+      "group": "none",
+      "movement": "equipment detail",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled311.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A woman hangs from the rig and drives her knees up in front of a graffiti wall and timer.",
+      "people": 2,
+      "group": "solo",
+      "movement": "toes to bar",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled313.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "An older man in a Challenge Accepted shirt walks past the workout whiteboard.",
+      "people": 1,
+      "group": "solo",
+      "movement": "between rounds",
+      "pillars": [
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled322.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A smiling woman in a red shirt holds a wrapped gift basket at a gym event.",
+      "people": 1,
+      "group": "solo",
+      "movement": "community event",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": "event photo, not training"
+    },
+    {
+      "file": "photos/May05,2026untitled369.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A member lies on a mat pressing a bar overhead with a medicine ball blurred in the foreground.",
+      "people": 1,
+      "group": "solo",
+      "movement": "floor press",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled412.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "An older woman with long grey hair hangs from the pull-up bar with a band for assistance.",
+      "people": 1,
+      "group": "solo",
+      "movement": "banded pull-up",
+      "pillars": [
+        "Strength and Performance",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled421.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A man pulls himself up to the bar seen from behind, shot against a pale wall.",
+      "people": 1,
+      "group": "solo",
+      "movement": "pull-ups",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled435.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "An older woman squats to a wooden box beneath an American flag and wall of medicine balls.",
+      "people": 1,
+      "group": "solo",
+      "movement": "box squat",
+      "pillars": [
+        "Real-Life Fitness",
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled447.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "An older man drives back on a rowing machine in a bright corner of the gym.",
+      "people": 1,
+      "group": "solo",
+      "movement": "rowing",
+      "pillars": [
+        "Real-Life Fitness",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled448.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A woman in a pink shirt works on the air bike, hands on the moving handles.",
+      "people": 1,
+      "group": "solo",
+      "movement": "air bike",
+      "pillars": [
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled458.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A member lifts under the graffiti wall and running clock, shot across stacked plates.",
+      "people": 1,
+      "group": "solo",
+      "movement": "barbell work",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled503.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "Two women stand talking near the open door, one holding a clipboard.",
+      "people": 2,
+      "group": "pair",
+      "movement": "briefing",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled510.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "An older woman runs along the road outside with knee sleeves on.",
+      "people": 1,
+      "group": "solo",
+      "movement": "running",
+      "pillars": [
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled519.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "Two members talk beside the whiteboard, one raising a fist in celebration.",
+      "people": 3,
+      "group": "small group",
+      "movement": "celebration",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled534.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A smiling woman in a Tough Country shirt holds a water bottle against a brick wall.",
+      "people": 1,
+      "group": "solo",
+      "movement": "post-workout",
+      "pillars": [
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled555.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "Two women move and stack wooden plyo boxes near the gym entrance.",
+      "people": 2,
+      "group": "pair",
+      "movement": "moving boxes",
+      "pillars": [
+        "Real-Life Fitness",
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled594.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A man stands tall on top of a box after a step-up, gym banner behind him.",
+      "people": 1,
+      "group": "solo",
+      "movement": "box step-up",
+      "pillars": [
+        "Real-Life Fitness",
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled663.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "Stacks of black bumper plates shot close in low light.",
+      "people": 0,
+      "group": "none",
+      "movement": "equipment detail",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled678.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A group of members walks and runs together outdoors under a shade structure.",
+      "people": 6,
+      "group": "class",
+      "movement": "walking",
+      "pillars": [
+        "Real-Life Fitness",
+        "Community and Coaching"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled691.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A young man kneels on the gym floor mid movement with medicine balls racked behind him.",
+      "people": 3,
+      "group": "small group",
+      "movement": "floor work",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled700.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A woman in knee sleeves leans in to read the workout posted on the rig.",
+      "people": 1,
+      "group": "solo",
+      "movement": "reading the workout",
+      "pillars": [
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": true,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled710.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A woman gives a thumbs up in front of the whiteboard with the day's workout written out.",
+      "people": 1,
+      "group": "solo",
+      "movement": "whiteboard briefing",
+      "pillars": [
+        "Community and Coaching",
+        "Consistency and Accountability"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled775.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A woman pulls a red resistance band apart overhead with feet planted wide.",
+      "people": 1,
+      "group": "solo",
+      "movement": "band work",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled776.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A man stretches a red resistance band overhead with both arms in a bright gym bay.",
+      "people": 1,
+      "group": "solo",
+      "movement": "band work",
+      "pillars": [
+        "Strength and Performance"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
+    },
+    {
+      "file": "photos/May05,2026untitled782.jpg",
+      "size": [
+        1024,
+        1280
+      ],
+      "desc": "A woman lies on a mat holding a bar overhead through a mobility drill.",
+      "people": 1,
+      "group": "solo",
+      "movement": "mobility",
+      "pillars": [
+        "Real-Life Fitness"
+      ],
+      "bottom_third_busy": false,
+      "quality_flag": null
     }
-  ]
+  ],
+  "_updated_on": "2026-08-30",
+  "_update_note": "2026-08-30: added 74 photos from the batch Brian dropped in. Before indexing, 14 files were removed from photos/ because their bytes matched images already in \"used Photos\" (already published), and 2 byte-identical duplicates were deleted. Simple Nutrition is now partially servable: photos/May05,2026untitled086.jpg is a hydration photo and is tagged Simple Nutrition, which is a change from the _pillar_note below. Everything else in that note still holds."
 }
