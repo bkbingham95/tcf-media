@@ -1,20 +1,44 @@
 {
   "_note": "Unpromoted Tough Country Fitness post candidates written by the tcf-bank-drafter scheduled task. NOTHING here publishes. The nightly scheduler (tcf-instagram-nightly-scheduler) reads queue.json only and cannot see this file. To approve a draft, move it into queue.json's posts array and drop the drafted_on, image_hosted and banner_text fields.",
-  "drafts": [
+  "_promoted": [
     {
       "id": "d06",
-      "pillar": "Simple Nutrition",
-      "headline": "Everyone counts protein, nobody counts fiber",
-      "concept": "fiber is the nutrient nobody tracks, most adults run at roughly half the recommendation, and the gap shows up as appetite and digestion rather than on the scale",
-      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/08d2ec12-00ec-4449-aad5-f352ecefb341.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi8wOGQyZWMxMi0wMGVjLTQ0NDktYWFkNS1mMzUyZWNlZmIzNDEucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzU4MjU5OSwiZXhwIjoxOTQ1MjYyNTk5fQ.5dWbqd5dXKlv3ko5osA17u9j5NpxaKYojWUNiLipANg",
-      "alt": "Black beans, a split avocado, raspberries and dark rye bread staged on a bench beside a rack of black bumper plates in a CrossFit gym at golden hour, with EVERYONE COUNTS PROTEIN across the top, FIBER in eroded blood red letters standing on the floor, and Nobody counts this one below.",
-      "caption": "Ask a gym full of people what their protein target is and every hand goes up. 🫘 Ask about fiber and the room goes quiet.\n\nMost American adults land somewhere around 15 grams a day. The general recommendation sits closer to 25 to 38 depending on size and sex, which means a lot of us are running at roughly half. That is not a moral failing, it is just what happens when most of the day's calories come from things that had the fiber processed out of them on the way to the shelf. The cost usually shows up as being hungry ninety minutes after a meal, and as digestion that never quite settles down.\n\nFixing it is boring in the best possible way. Beans in the chili. Berries on the yogurt instead of the granola. Leave the skin on the potato. Whole grain bread instead of the soft white stuff. Add it gradually rather than all at once and drink water alongside it, because a sudden jump is uncomfortable in a way that will have you quitting by Thursday. 🥣\n\nAnyone dealing with a gut condition should sort this out with their doctor rather than a caption, since the right answer there is genuinely individual.\n\nWhat is the one high fiber food you actually enjoy eating?",
-      "hashtags": "#ToughCountryFitness #Fiber #SimpleNutrition #EatWholeFoods #Vegas702",
-      "first_comment": "A rough gauge: if you cannot name one thing you ate yesterday that had skin, seeds or beans in it, the number was probably low. What does your usual breakfast look like?",
-      "drafted_on": "2026-08-24",
-      "image_hosted": false,
-      "banner_text": "EVERYONE COUNTS PROTEIN / FIBER / Nobody counts this one"
+      "promoted_on": "2026-08-30",
+      "became": "b18",
+      "note": "Fiber. Promoted into queue.json and scheduled for 2026-08-31 09:00 PT on both platforms. Removed from drafts so it cannot be promoted twice."
     },
+    {
+      "id": "d12",
+      "promoted_on": "2026-08-30",
+      "became": "b19",
+      "note": "Promoted into queue.json for the week of 2026-09-01. Removed from drafts so it cannot be promoted twice."
+    },
+    {
+      "id": "d17",
+      "promoted_on": "2026-08-30",
+      "became": "b20",
+      "note": "Promoted into queue.json for the week of 2026-09-02. Removed from drafts so it cannot be promoted twice."
+    },
+    {
+      "id": "d11",
+      "promoted_on": "2026-08-30",
+      "became": "b21",
+      "note": "Promoted into queue.json for the week of 2026-09-03. Removed from drafts so it cannot be promoted twice."
+    },
+    {
+      "id": "d10",
+      "promoted_on": "2026-08-30",
+      "became": "b22",
+      "note": "Promoted into queue.json for the week of 2026-09-04. Removed from drafts so it cannot be promoted twice."
+    },
+    {
+      "id": "d08",
+      "promoted_on": "2026-08-30",
+      "became": "b23",
+      "note": "Promoted into queue.json for the week of 2026-09-07. Removed from drafts so it cannot be promoted twice."
+    }
+  ],
+  "drafts": [
     {
       "id": "d07",
       "pillar": "Real-Life Fitness",
@@ -28,20 +52,6 @@
       "drafted_on": "2026-08-24",
       "image_hosted": false,
       "banner_text": "IT GOES QUIETLY FIRST / BALANCE / Stand on one leg"
-    },
-    {
-      "id": "d08",
-      "pillar": "Strength and Performance",
-      "headline": "The belt is not the brace",
-      "concept": "bracing is a low breath held against a tight midsection and the belt is only something to push into, so a belt cannot create pressure you never made",
-      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/92ae4a23-9e4a-47d0-9bed-fad4af9d65d8.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi85MmFlNGEyMy05ZTRhLTQ3ZDAtOWJlZC1mYWQ0YWY5ZDY1ZDgucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzU4MjY3NCwiZXhwIjoxOTQ1MjYyNjc0fQ.HDBtGT_jILs16ze3szj6dDYr3L2__NHDYIZ-NuosaXE",
-      "alt": "A loaded barbell with a leather belt draped over it on the rubber floor of a CrossFit gym as a fiery sunset burns through the open bay door, with BREATH BEFORE THE BAR across the top, BRACE FIRST chiseled into the cinder block wall glowing electric blue, and Then move the bar below.",
-      "caption": "The belt does not hold your back together. 🫁 The air you trapped behind it does, and the belt is just something for that air to push against.\n\nHere is the sequence most people never get taught. Big breath low into the belly and the sides of the ribcage, not up into the chest. Then tighten everything around it like you are about to take a punch. That pressurised drum is what keeps your spine stacked while a heavy bar tries to fold you in half. A belt raises the ceiling on how much pressure you can build, which is exactly why it helps at heavy loads, but it cannot manufacture pressure you never made. Worn over a soft midsection it is a costume, not a tool.\n\nSo practise it with nothing on the bar first. Breathe in low, brace hard, and try to hold that while you walk the length of the gym. Then do it under an empty bar. Then keep doing it at every weight, not only the ones that scare you, because a brace you remember at ninety percent and forget at sixty is not really yours yet. If you have blood pressure concerns, that is a conversation with your doctor before you go hunting for heavy singles. 🏋️\n\nAt what weight do you actually start thinking about your breath?",
-      "hashtags": "#ToughCountryFitness #Bracing #MidlineStability #StrengthAndPerformance #Vegas702",
-      "first_comment": "If you can talk normally partway through a heavy rep, you are not braced, you are just holding a bar. Do you wear a belt, and did anybody ever teach you when to put it on?",
-      "drafted_on": "2026-08-24",
-      "image_hosted": false,
-      "banner_text": "BREATH BEFORE THE BAR / BRACE FIRST / Then move the bar"
     },
     {
       "id": "d09",
@@ -58,48 +68,6 @@
       "banner_text": "ONE SESSION MEANS NOTHING / ZOOM OUT / Judge it by months"
     },
     {
-      "id": "d10",
-      "pillar": "Simple Nutrition",
-      "headline": "Your body barely notices what you drink",
-      "concept": "liquid calories do not trigger the fullness signals that chewed food does, so drinks land on top of the day rather than inside it",
-      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/cef5fa9b-0790-4845-bb23-3110fdd51aaa.png?token=eyJraWQiOiI3MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi9jZWY1ZmE5Yi0wNzkwLTQ4NDUtYmIyMy0zMTEwZmRkNTFhYWEucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzY2OTAwNSwiZXhwIjoxOTQ1MzQ5MDA1fQ.kYw0vvNXj2513RhkmjulB819M52CP0qrpv4O_MZeBO8",
-      "alt": "A shaker bottle, a tall fountain drink cup and a sports drink staged on a stack of black bumper plates in a CrossFit gym at night under a single work light, with IT NEVER REGISTERS across the top, LIQUID CALORIES in charred wood letters with LIQUID glowing acid green, and Hunger never notices painted on the wall below.",
-      "caption": "A 500 calorie smoothie and a 500 calorie plate of food do not land the same way. 🥤 One of them leaves you full and the other leaves you looking for lunch.\n\nFullness is not just a calorie count arriving in your stomach. It comes from chewing, from the stretch of solid food sitting there, and from the slower drip of hormones that follows a real meal. A drink skips most of that. It empties out fast, it barely touches the stretch receptors, and the signal your brain gets back is faint compared to what an equivalent plate of food would send. That is why a large sweet coffee, a bottle of juice and a sports drink can quietly stack up across a day without ever once feeling like eating.\n\nNone of this makes drinks the villain. It just means they mostly add to the day rather than replace part of it. So when a drink is genuinely fuel, like something with sodium in it on a long hot session, use it on purpose. The rest of the time, eating the fruit instead of drinking it costs nothing and keeps you fuller for longer. 🍎\n\nWhat do you drink most days without ever thinking of it as food?",
-      "hashtags": "#ToughCountryFitness #LiquidCalories #SimpleNutrition #EatRealFood #Vegas702",
-      "first_comment": "Chewing does more work than people give it credit for, which is why a whole orange and a glass of orange juice can feel completely different an hour later. What is the one drink you would not want to give up?",
-      "drafted_on": "2026-08-25",
-      "image_hosted": false,
-      "banner_text": "IT NEVER REGISTERS / LIQUID CALORIES / Hunger never notices"
-    },
-    {
-      "id": "d11",
-      "pillar": "Real-Life Fitness",
-      "headline": "The gym goes one direction and life does not",
-      "concept": "nearly every gym lift runs straight forward and back, but real loads twist, so anti-rotation work is the piece almost nobody trains",
-      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/ce7b34c8-94ad-4d38-8b38-9219c9887542.png?token=eyJraWQiOiI3MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi9jZTdiMzRjOC05NGFkLTRkMzgtOGIzOC05MjE5Yzk4ODc1NDIucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzY2OTAzNiwiZXhwIjoxOTQ1MzQ5MDM2fQ.RHLZbeaf_P7wwEs8x6jjwF0d3-9dCbfmtD3fRq0uGcU",
-      "alt": "A duffel bag and work boots on the rubber floor beside a steel rig and loaded barbell under cold storm light through a half raised bay door, with GYM GOES ONE WAY stencilled on the door, REAL LIFE TWISTS in cracked earth letters with TWISTS in fiery orange, and Train the turn painted on the wall.",
-      "caption": "Squat, press, deadlift, row. 🔄 Every one of them travels straight forward and back, and almost nothing you do outside the gym does.\n\nThink about what actually loads you in a normal week. Swinging a bag of feed into a truck bed. Reaching across the back seat to grab a kid's backpack. Shoveling. Carrying something heavy in one hand while you open a door with the other. All of those are twisting or resisting a twist, and most training programs never once ask for it. So you end up strong in one plane and untested in the plane where you are most likely to get caught out.\n\nThe fix is not complicated and it does not need a new program. A suitcase carry with weight in one hand only is anti-rotation training whether you call it that or not. So is a single arm overhead carry, a bird dog done slowly, or a plank with one hand tapping the opposite shoulder. Two or three sets tacked onto the end of a session covers it. 🧰\n\nWhat is the everyday chore that leaves you sore in a place training never does?",
-      "hashtags": "#ToughCountryFitness #AntiRotation #CoreTraining #RealLifeFitness #Vegas702",
-      "first_comment": "Carrying a heavy kettlebell in one hand only for fifty feet will tell you more about your midline than a hundred sit ups, because the whole job is refusing to lean. Which hand feels noticeably harder when you try it?",
-      "drafted_on": "2026-08-25",
-      "image_hosted": false,
-      "banner_text": "GYM GOES ONE WAY / REAL LIFE TWISTS / Train the turn"
-    },
-    {
-      "id": "d12",
-      "pillar": "Strength and Performance",
-      "headline": "You stopped further from failure than you think",
-      "concept": "people consistently overestimate how hard a set was and leave several reps unused, so naming reps in reserve out loud is the correction",
-      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/fcc9bebc-69f8-4ad7-afe9-2be6b33fc516.png?token=eyJraWQiOiI3MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi9mY2M5YmViYy02OWY4LTRhZDctYWZlOS0yYmU2YjMzZmM1MTYucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4NzY2OTA2OCwiZXhwIjoxOTQ1MzQ5MDY4fQ.NlG-r_IdZLY8Q24S78BOe_9GUn9MhIGUVzuiCYrGa5M",
-      "alt": "A loaded barbell on the rubber floor beside a rack of black bumper plates with wrist wraps and a belt draped over it at golden hour, with YOU CALLED IT HARD across the top, REPS LEFT chiseled into the cinder block wall with REPS in molten gold, and Usually about four painted on the floor.",
-      "caption": "Ask someone at the end of a set how many more they had in them and the honest answer is usually higher than the guess. 🎯 That gap is where a lot of training quietly goes to waste.\n\nWhen researchers stop people at the point where they say they are done and then talk them into continuing, most find several more reps waiting. The feeling of a set being finished shows up well before the set is actually finished, and it shows up earliest on the movements you like least. That matters because the reps that drive adaptation are the hard ones near the end. Stop four short and you did the warmup portion of the set and skipped the part that pays.\n\nThe fix is a number, not more grit. After every working set, say out loud how many reps you had left. Two. Four. None. Then next set, adjust. Most strength work lives well at one to three left, so if your answer keeps coming back as five, the weight or the rep count needs to move. Saying it out loud is the whole trick, because a number is much harder to fool yourself with than a feeling. 🏋️\n\nWhich lift do you suspect you quit earliest on?",
-      "hashtags": "#ToughCountryFitness #RepsInReserve #TrainToTheHardPart #StrengthAndPerformance #Vegas702",
-      "first_comment": "Your estimate gets sharper with practice, and it is usually worst on the exercises you have the least experience with. Do you train closer to the edge on upper body or lower body?",
-      "drafted_on": "2026-08-25",
-      "image_hosted": false,
-      "banner_text": "YOU CALLED IT HARD / REPS LEFT / Usually about four"
-    },
-    {
       "id": "d14",
       "pillar": "Simple Nutrition",
       "headline": "The post workout window is hours, not minutes",
@@ -112,20 +80,6 @@
       "drafted_on": "2026-08-26",
       "image_hosted": false,
       "banner_text": "YOU HAVE HOURS / THE WINDOW / Not thirty minutes"
-    },
-    {
-      "id": "d17",
-      "pillar": "Consistency and Accountability",
-      "headline": "Training with no start time loses to everything that has one",
-      "concept": "a session that lives as a floating intention gets pushed by anything scheduled, so it needs a booked hour defended the way a work meeting is",
-      "image_url": "https://akvdidqhmybyfyfvygzb.supabase.co/storage/v1/object/sign/generated-images/356fbcc8-dd6f-45c2-b6fb-d5d16629e47f/ead46055-85f0-4a81-80e5-8019b7b603ea.png?token=eyJraWQiOiI3MzU3NGExYi00OGZjLTRjOTktOGRmYy1iODMzYmQ2ZDJhODEiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnZW5lcmF0ZWQtaW1hZ2VzLzM1NmZiY2M4LWRkNmYtNDVjMi1iNmZiLWQ1ZDE2NjI5ZTQ3Zi9lYWQ0NjA1NS04NWYwLTRhODEtODBlNS04MDE5YjdiNjAzZWEucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc4Nzc3NzA2MiwiZXhwIjoxOTQ1NDU3MDYyfQ.nVaPbo0fOb_HsDt0-FBYQ13Wtt6yExRbwpmY38-5Wlg",
-      "alt": "An empty gym at golden hour with rings hanging still, a jump rope and water bottle set out on a plyo box and a worn patch of floor under the rig, with SOMETIME TODAY NEVER HAPPENS along the top, BOOK THE HOUR chiseled into the cinder block wall with HOUR in blood red, and Defend it like work below.",
-      "caption": "Anything on your calendar beats anything that is only in your head. ⏰ That is the entire reason a nine in the morning meeting you do not care about still happens and a workout you do care about does not.\n\nA floating intention has no edges. It has no start, so nothing has to end for it to begin, which means every request that arrives with a time attached quietly takes priority. By seven at night the intention is still technically alive and completely unspent, and you tell yourself tomorrow. Meanwhile the person who wrote five thirty on Tuesday has already been and gone, not because they wanted it more, but because their version had a beginning.\n\nSo give it a start time and treat it like something you would have to actively cancel. Put it in whatever calendar you already look at. Pick the hour you are most reliably free rather than the hour you are most motivated, because motivation is not a scheduling input. And when something asks for that slot, answer the way you would about a meeting: I have something at five thirty, what about after. 🗓️\n\nWhat time of day do you train most reliably, and did you pick it or did it pick you?",
-      "hashtags": "#ToughCountryFitness #ScheduleIt #TrainingHabits #ConsistencyAndAccountability #Vegas702",
-      "first_comment": "The tell is what you say when somebody asks for that hour, because I am busy holds and I was going to work out folds almost every time. Is your training on an actual calendar right now, or just in your head?",
-      "drafted_on": "2026-08-26",
-      "image_hosted": false,
-      "banner_text": "SOMETIME TODAY NEVER HAPPENS / BOOK THE HOUR / Defend it like work"
     },
     {
       "id": "d18",

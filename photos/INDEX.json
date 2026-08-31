@@ -444,22 +444,6 @@
       "quality_flag": null
     },
     {
-      "file": "photos/untitled-82.jpg",
-      "size": [
-        6492,
-        5194
-      ],
-      "desc": "Black and white wide shot of a man seated on a rowing machine in a dim gym.",
-      "people": 1,
-      "group": "solo",
-      "movement": "rowing",
-      "pillars": [
-        "Consistency and Accountability"
-      ],
-      "bottom_third_busy": false,
-      "quality_flag": null
-    },
-    {
       "file": "photos/untitled-83.jpg",
       "size": [
         3583,
@@ -1174,11 +1158,10 @@
       "group": "solo",
       "movement": "hydrating",
       "pillars": [
-        "Real-Life Fitness",
-        "Simple Nutrition"
+        "Real-Life Fitness"
       ],
       "bottom_third_busy": true,
-      "quality_flag": null
+      "quality_flag": "hydration subject; per RULES.md Simple Nutrition is served as recipe cards, not gym photos"
     },
     {
       "file": "photos/May05,2026untitled093.jpg",
@@ -1686,5 +1669,5 @@
     }
   ],
   "_updated_on": "2026-08-30",
-  "_update_note": "2026-08-30: added 74 photos from the batch Brian dropped in. Before indexing, 14 files were removed from photos/ because their bytes matched images already in \"used Photos\" (already published), and 2 byte-identical duplicates were deleted. Simple Nutrition is now partially servable: photos/May05,2026untitled086.jpg is a hydration photo and is tagged Simple Nutrition, which is a change from the _pillar_note below. Everything else in that note still holds."
+  "_update_note": "2026-08-30: added 74 photos from the batch Brian dropped in. Before indexing, 14 files were removed from photos/ because their bytes matched images already in \"used Photos\" (already published), and 2 byte-identical duplicates were deleted. photos/May05,2026untitled086.jpg is a hydration photo; it is tagged Real-Life Fitness only, because RULES.md serves Simple Nutrition as Simpli Studio recipe cards and forbids forcing a gym photo onto that pillar. Also removed photos/untitled-82.jpg and its index entry on 2026-08-30: it was byte-identical to used Photos/untitled-82.jpg, i.e. already published."
 }
