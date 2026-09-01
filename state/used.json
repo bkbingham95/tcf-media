@@ -1,6 +1,6 @@
 {
   "_note": "Re-indexed 2026-08-10. The photo library was fully replaced, so the photo usage ledger was reset to the 44 new files. Concept history is preserved and still governs anti-repeat. Photos used before 2026-08-10 refer to files no longer in the repo.",
-  "style_index": 0,
+  "style_index": 3,
   "photos": [
     {
       "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
@@ -61,6 +61,42 @@
       "used": "2026-08-20",
       "confidence": "confirmed",
       "note": "out/2026-08-20/slot2.jpg"
+    },
+    {
+      "file": "photos/IMG_4300.jpeg",
+      "used": "2026-09-01",
+      "confidence": "confirmed",
+      "note": "bank composite b19, not yet published"
+    },
+    {
+      "file": "photos/IMG_5477.JPG",
+      "used": "2026-09-01",
+      "confidence": "confirmed",
+      "note": "bank composite b20, not yet published"
+    },
+    {
+      "file": "photos/May05,2026untitled435.jpg",
+      "used": "2026-09-01",
+      "confidence": "confirmed",
+      "note": "bank composite b22, not yet published"
+    },
+    {
+      "file": "photos/untitled-75.jpg",
+      "used": "2026-09-01",
+      "confidence": "confirmed",
+      "note": "bank composite b23, not yet published"
+    },
+    {
+      "file": "photos/IMG_9865.JPG",
+      "used": "2026-09-01",
+      "confidence": "confirmed",
+      "note": "bank composite b24, not yet published"
+    },
+    {
+      "file": "photos/untitled-53.jpg",
+      "used": "2026-09-01",
+      "confidence": "confirmed",
+      "note": "bank composite b26, not yet published"
     }
   ],
   "unused_photos_remaining": [
@@ -300,17 +336,17 @@
     },
     {
       "date": "2026-08-31",
-      "pillar": "Simple Nutrition",
-      "concept": "fiber is the nutrient nobody tracks, most adults run at roughly half the recommendation, and the gap shows up as appetite and digestion rather than on the scale",
-      "source": "interactive session, promoted from draft d06 as bank entry b18"
+      "pillar": "Community and Coaching",
+      "concept": "coaching is not a beginner service, the errors that matter get smaller and more expensive as you get stronger and they hide inside a lift that looks fine",
+      "source": "interactive session, real-photo composite b18"
     }
   ],
-  "last_pillar": "Simple Nutrition",
+  "last_pillar": "Community and Coaching",
   "next_pillars": [
-    "Community and Coaching",
     "Strength and Performance",
     "Consistency and Accountability",
-    "Real-Life Fitness"
+    "Real-Life Fitness",
+    "Simple Nutrition"
   ],
   "_pillar_note": "2026-08-31: Simple Nutrition was owed since 2026-08-21 and is now paid, via b18 (fiber) on a Simpli-hosted card rather than a gym photo. That is the normal shape for this pillar and is why it falls out of the gym-photo rotation.",
   "photos_flagged_used_offline": [
@@ -320,6 +356,6 @@
   "_anti_repeat_warning": "This file is NOT a source of truth. Posts created outside this pipeline never reach it. On 2026-08-11 two posts were rebuilt nearly verbatim from concepts already published on 2026-08-10 because those were missing here. Always check Buffer sent history first.",
   "_rotation_note": "Consistency and Accountability was skipped on 2026-08-12: five concepts had already run in seven days and a sixth was queued for that night. Crowding beats rotation order.",
   "_library_warning": "2026-08-23: photos/INDEX.json has been REBUILT from the files actually on disk and is trustworthy again. 29 photos indexed, 8 retired plus untitled-40 and untitled-34 (ORB matched to old composites) plus the 6 consumed by bank entries b11-b16.",
-  "_bank_warning": "2026-08-30: bank refilled to 5 eligible entries, b19-b23, promoted from drafts d12, d17, d11, d10 and d08 in that bank order, covering weekdays 09-01 through 09-07. b01-b18 all carry posted_on. All five new entries are Simpli-hosted signed URLs and need NO push. NOTE: b19-b22 use a shorter Supabase signing-key id than the older drafts, and that format has not yet been proven to fetch successfully through Blotato. b18 (the older long-key format) fetched fine on 08-30. If a nightly run reports 'Failed to fetch media URL' on b19-b22, the URL format is the cause and the images need regenerating, not the copy. The failure is safe: the entry stays eligible because posted_on is only written on confirmed success.",
-  "_pillar_gap": "2026-08-30: there are NO Community and Coaching drafts or eligible bank entries. That pillar is first in next_pillars and has been owed since b12 on 08-25. The bank drafter needs to be pointed at it, or Community and Coaching posts written by hand, otherwise the rotation will keep skipping it."
+  "_bank_warning": "2026-08-31: bank is REAL PHOTO COMPOSITES ONLY. The AI banner experiment (b07-b10, b17) is retired; those stay as published history. b18 is the coaching composite, scheduled and flagged. ZERO eligible entries remain. Next post must be built from photos/ with tools/tcf_build.py in a session with Brian.",
+  "_pillar_gap": "2026-08-31: Community and Coaching PAID via b18. It had been owed since b12 on 08-25. Note this pillar can only ever come from real photographs of real members, never AI, so it cannot be served by tcf-bank-drafter and must be built in a session."
 }
