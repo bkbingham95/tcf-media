@@ -14,7 +14,7 @@ Styles cycle: 0 amber, 1 ice blue, 2 clay red, 3 green.
 
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 W, H = 1080, 1350  # 4:5
 
@@ -91,7 +91,12 @@ def _fit_headline(draw, text, max_w, max_lines=3):
 
 def render(photo_path, headline, style_index, out_path, yb=0.5, sa=210, bb=0.42):
     style = STYLES[style_index % len(STYLES)]
-    base = Image.open(photo_path).convert("RGB")
+    # exif_transpose applies the camera's EXIF orientation tag and strips it.
+    # Without this, any photo whose orientation is not 1 renders rotated. Six
+    # files in photos/ were affected as of 2026-09-01, and the failure is silent:
+    # the composite looks fine to the renderer and is only caught by a human
+    # looking at the output. Added after IMG_0146 shipped sideways into a draft.
+    base = ImageOps.exif_transpose(Image.open(photo_path)).convert("RGB")
     canvas = _crop_45(base, yb)
 
     layer, mask = _scrim(sa, bb)
