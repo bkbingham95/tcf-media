@@ -101,6 +101,36 @@
       "image_hosted": false,
       "source_photo": "photos/untitled-78.jpg",
       "style": "amber"
+    },
+    {
+      "id": "d22",
+      "pillar": "Real-Life Fitness",
+      "headline": "You quit jumping and never noticed",
+      "concept": "power fades faster than strength with age and jumping is the first thing adults quietly drop, so landing well has to be trained back on purpose",
+      "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/drafts/d22.jpg",
+      "source_photo": "photos/May05,2026untitled594.jpg",
+      "style": "ice blue",
+      "alt": "A man in a green sleeveless shirt walks across the gym floor toward the camera past a Mesquite banner and an open doorway, with the words YOU QUIT JUMPING AND NEVER NOTICED burned into the lower third above the TOUGH COUNTRY FITNESS wordmark.",
+      "caption": "Somewhere along the way you stopped leaving the ground on purpose, and nobody sent a notice about it. 🏃\n\nStrength and power are not the same quality. Strength is how much force you can produce. Power is how fast you can produce it, and power fades noticeably quicker as the years stack up. That gap is why plenty of people can still deadlift respectable weight and still get caught flat footed by a curb they misjudged. The lift is slow on purpose. The curb is not.\n\nThe half nobody trains is the landing. Coming down is where force has to be absorbed, and if the ankles, knees and hips are not used to doing that job they hand it off to whatever is stiffest. You can train it back without doing anything dramatic. Step down slowly off a low box. Then small hops in place, landing quietly with soft knees. Then a low box jump, stepping down rather than jumping down. Five or six good reps at the start of a session is plenty, and quality beats volume here by a wide margin. 🧱\n\nIf your knees, hips or ankles have a history, get a plan from your doctor or physical therapist before you start hopping on them.\n\nWhen was the last time you left the ground on purpose?",
+      "hashtags": "#ToughCountryFitness #MesquiteNV #RealLifeFitness #Plyometrics #AgingWell",
+      "first_comment": "Noise is the honest test. If the gym can hear you land, the joints are catching the floor instead of the muscles, and quieter landings usually show up within a couple of weeks of paying attention to them. What is the lowest box you would trust yourself on today?",
+      "drafted_on": "2026-09-02",
+      "image_hosted": false
+    },
+    {
+      "id": "d23",
+      "pillar": "Strength and Performance",
+      "headline": "The barbell hides your weak side",
+      "concept": "a barbell reports the average of two limbs so the strong side quietly covers for the weak one, and dumbbells or single arm work is what makes the difference visible",
+      "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/drafts/d23.jpg",
+      "source_photo": "photos/untitled-21.jpg",
+      "style": "green",
+      "alt": "A woman lies on a bench pressing two black hex dumbbells up to arms length beneath a loaded barbell in the rack, with the words THE BARBELL HIDES YOUR WEAK SIDE burned into the lower third above the TOUGH COUNTRY FITNESS wordmark.",
+      "caption": "A barbell number is an average of two arms, and averages are very good at hiding things. 🏋️\n\nWhen both hands are locked onto one bar, the stronger side can quietly take a bigger share of the load and the bar still travels level enough that nobody in the room sees a problem. A ten percent difference between sides can live inside a lift that looks completely clean. Split that same weight into two dumbbells and the arrangement falls apart, because now each side has to produce its own force with nothing to lean on.\n\nYou do not need a test day to find it. Take a dumbbell press, a single arm row, a split squat, anything one side at a time. Start with the weaker side, take it to a hard but clean stopping point, then give the strong side exactly the same number of reps rather than the ones it could have done. Hold that for a few weeks and the gap usually narrows on its own. It is not glamorous work and it never shows up in a personal record, which is most of why people skip it. 💪\n\nWhich side do you already suspect is the weaker one?",
+      "hashtags": "#ToughCountryFitness #StrengthTraining #Dumbbells #MesquiteNV #TrainSmart",
+      "first_comment": "The tell is almost always the finish rather than the start. One dumbbell locks out a beat late and drifts toward the middle on the way up, and once you have seen it you cannot unsee it. How many extra sets a week would you actually give the slower side?",
+      "drafted_on": "2026-09-02",
+      "image_hosted": false
     }
   ],
   "_reverted_note": "2026-08-30: d06, d08, d10, d11, d12 and d17 were promoted into the bank and then returned here the same day. The bank is real-photo composites only; these are AI-generated banners. Do not re-promote them without Brian saying the policy changed."
