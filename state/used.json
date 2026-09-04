@@ -1,6 +1,6 @@
 {
   "_note": "Re-indexed 2026-08-10. The photo library was fully replaced, so the photo usage ledger was reset to the 44 new files. Concept history is preserved and still governs anti-repeat. Photos used before 2026-08-10 refer to files no longer in the repo.",
-  "style_index": 0,
+  "style_index": 1,
   "photos": [
     {
       "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
@@ -121,6 +121,12 @@
       "used": "2026-09-02",
       "confidence": "confirmed",
       "note": "draft composite d23, not promoted, not published"
+    },
+    {
+      "file": "photos/IMG_0146.JPG",
+      "used": "2026-09-03",
+      "confidence": "confirmed",
+      "note": "draft composite d24, not promoted, not published"
     }
   ],
   "unused_photos_remaining": [
@@ -381,9 +387,21 @@
       "pillar": "Strength and Performance",
       "concept": "a barbell averages two limbs so the strong side covers for the weak one, dumbbells and single arm work expose the gap",
       "source": "tcf-bank-drafter, draft d23, not published"
+    },
+    {
+      "date": "2026-09-03",
+      "pillar": "Consistency and Accountability",
+      "concept": "daily performance swings ten to fifteen percent on sleep, food and stress, so training only reads as signal at the scale of a month",
+      "source": "tcf-instagram-nightly-scheduler"
+    },
+    {
+      "date": "2026-09-03",
+      "pillar": "Consistency and Accountability",
+      "concept": "missed sessions cluster on one weekday behind one recurring conflict, so an eight week attendance audit fixes the schedule rather than the willpower",
+      "source": "tcf-bank-drafter, draft d24, not published"
     }
   ],
-  "last_pillar": "Strength and Performance",
+  "last_pillar": "Consistency and Accountability",
   "next_pillars": [
     "Consistency and Accountability",
     "Real-Life Fitness",
