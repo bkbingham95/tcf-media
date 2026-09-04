@@ -102,31 +102,31 @@
       "file": "photos/untitled-20.jpg",
       "used": "2026-09-01",
       "confidence": "confirmed",
-      "note": "draft composite d20, not promoted, not published"
+      "note": "bank composite b27 (promoted from draft d20 on 2026-09-03), approved, not yet published"
     },
     {
       "file": "photos/untitled-78.jpg",
       "used": "2026-09-01",
       "confidence": "confirmed",
-      "note": "draft composite d21, not promoted, not published"
+      "note": "bank composite b28 (promoted from draft d21 on 2026-09-03), approved, not yet published"
     },
     {
       "file": "photos/May05,2026untitled594.jpg",
       "used": "2026-09-02",
       "confidence": "confirmed",
-      "note": "draft composite d22, not promoted, not published"
+      "note": "bank composite b29 (promoted from draft d22 on 2026-09-03), approved, not yet published"
     },
     {
       "file": "photos/untitled-21.jpg",
       "used": "2026-09-02",
       "confidence": "confirmed",
-      "note": "draft composite d23, not promoted, not published"
+      "note": "bank composite b30 (promoted from draft d23 on 2026-09-03), approved, not yet published"
     },
     {
       "file": "photos/IMG_0146.JPG",
       "used": "2026-09-03",
       "confidence": "confirmed",
-      "note": "draft composite d24, not promoted, not published"
+      "note": "bank composite b31 (promoted from draft d24 on 2026-09-03), approved, not yet published"
     }
   ],
   "unused_photos_remaining": [
@@ -380,13 +380,13 @@
       "date": "2026-09-02",
       "pillar": "Real-Life Fitness",
       "concept": "power fades faster than strength and adults quietly stop jumping, so landing has to be retrained on purpose",
-      "source": "tcf-bank-drafter, draft d22, not published"
+      "source": "tcf-bank-drafter, promoted to bank b29 2026-09-03, not published"
     },
     {
       "date": "2026-09-02",
       "pillar": "Strength and Performance",
       "concept": "a barbell averages two limbs so the strong side covers for the weak one, dumbbells and single arm work expose the gap",
-      "source": "tcf-bank-drafter, draft d23, not published"
+      "source": "tcf-bank-drafter, promoted to bank b30 2026-09-03, not published"
     },
     {
       "date": "2026-09-03",
@@ -398,7 +398,7 @@
       "date": "2026-09-03",
       "pillar": "Consistency and Accountability",
       "concept": "missed sessions cluster on one weekday behind one recurring conflict, so an eight week attendance audit fixes the schedule rather than the willpower",
-      "source": "tcf-bank-drafter, draft d24, not published"
+      "source": "tcf-bank-drafter, promoted to bank b31 2026-09-03, not published"
     }
   ],
   "last_pillar": "Consistency and Accountability",
@@ -416,6 +416,6 @@
   "_anti_repeat_warning": "This file is NOT a source of truth. Posts created outside this pipeline never reach it. On 2026-08-11 two posts were rebuilt nearly verbatim from concepts already published on 2026-08-10 because those were missing here. Always check Buffer sent history first.",
   "_rotation_note": "Consistency and Accountability was skipped on 2026-08-12: five concepts had already run in seven days and a sixth was queued for that night. Crowding beats rotation order.",
   "_library_warning": "2026-08-23: photos/INDEX.json has been REBUILT from the files actually on disk and is trustworthy again. 29 photos indexed, 8 retired plus untitled-40 and untitled-34 (ORB matched to old composites) plus the 6 consumed by bank entries b11-b16.",
-  "_bank_warning": "2026-08-31: bank is REAL PHOTO COMPOSITES ONLY. The AI banner experiment (b07-b10, b17) is retired; those stay as published history. b18 is the coaching composite, scheduled and flagged. ZERO eligible entries remain. Next post must be built from photos/ with tools/tcf_build.py in a session with Brian.",
+  "_bank_warning": "2026-09-03: bank is REAL PHOTO COMPOSITES ONLY. Drafts d20-d24 were promoted to b27-b31 in an interactive session and all five images are pushed and live. 9 unused entries.",
   "_pillar_gap": "2026-08-31: Community and Coaching PAID via b18. It had been owed since b12 on 08-25. Note this pillar can only ever come from real photographs of real members, never AI, so it cannot be served by tcf-bank-drafter and must be built in a session."
 }
