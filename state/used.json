@@ -1,6 +1,6 @@
 {
   "_note": "Re-indexed 2026-08-10. The photo library was fully replaced, so the photo usage ledger was reset to the 44 new files. Concept history is preserved and still governs anti-repeat. Photos used before 2026-08-10 refer to files no longer in the repo.",
-  "style_index": 2,
+  "style_index": 3,
   "photos": [
     {
       "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
@@ -151,6 +151,12 @@
       "used": "2026-09-05",
       "confidence": "confirmed",
       "note": "draft d28, not promoted and not published"
+    },
+    {
+      "file": "photos/IMG_5290.JPG",
+      "date": "2026-09-05",
+      "confidence": "confirmed",
+      "note": "rendered for draft d29, not yet published"
     }
   ],
   "unused_photos_remaining": [
@@ -452,6 +458,12 @@
       "pillar": "Real-Life Fitness",
       "concept": "real work is largely static holding under load rather than reps, a sustained contraction restricts its own blood supply, and hold endurance is trained on a clock in seconds",
       "source": "tcf-bank-drafter, draft d28, not promoted"
+    },
+    {
+      "date": "2026-09-05",
+      "pillar": "Strength and Performance",
+      "concept": "motor learning does not pause under fatigue, so skill and heavy work practiced late in a session rehearse the compensation rather than the pattern, which is why technical work belongs in the first twenty minutes",
+      "source": "tcf-nightly-run, draft d29, not promoted"
     }
   ],
   "last_pillar": "Consistency and Accountability",
