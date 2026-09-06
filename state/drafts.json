@@ -85,7 +85,7 @@
       "hashtags": "#ToughCountryFitness #ActiveRange #Mobility #RealLifeFitness #Vegas702",
       "first_comment": "Quick check you can run tonight: lie on your back with your knees bent and your low back flat to the floor, then raise your arms overhead. Wherever they stop before your ribs pop up is your honest overhead range. How far do your arms actually get?",
       "drafted_on": "2026-09-04",
-      "image_hosted": false
+      "image_hosted": true
     },
     {
       "id": "d26",
@@ -100,7 +100,7 @@
       "hashtags": "#ToughCountryFitness #Deadlift #BarPath #StrengthTraining #Vegas702",
       "first_comment": "Worth knowing: the same rule governs the squat and the press, since every barbell is looking for that line over your midfoot whether it is in your hands or on your back. Does your bar stay against your shins on the way up, or has it always drifted out from you?",
       "drafted_on": "2026-09-04",
-      "image_hosted": false
+      "image_hosted": true
     },
     {
       "id": "d27",
@@ -115,7 +115,7 @@
       "hashtags": "#ToughCountryFitness #AfterTheGoal #WhatComesNext #ConsistencyAndAccountability #Vegas702",
       "first_comment": "This shows up hardest after events with a finish line, which is why the weeks right after a race are where a lot of good training plans quietly end. What is the next thing you are working toward?",
       "drafted_on": "2026-09-05",
-      "image_hosted": false
+      "image_hosted": true
     },
     {
       "id": "d28",
@@ -130,7 +130,7 @@
       "hashtags": "#ToughCountryFitness #Isometrics #GripEndurance #RealLifeFitness #Vegas702",
       "first_comment": "A humbling benchmark that needs no equipment beyond a bar: hang and see whether you reach thirty seconds without renegotiating. When you hold something heavy, what gives out first, your grip or your shoulders?",
       "drafted_on": "2026-09-05",
-      "image_hosted": false
+      "image_hosted": true
     },
     {
       "id": "d29",
@@ -144,6 +144,21 @@
       "caption": "The last three rounds of a hard workout are where most people quietly learn their worst habits. 😮‍💨\n\nMotor learning does not switch off when you get tired. Every rep writes something down, including the ugly ones. So when you practice pull-ups at the back end of a conditioning piece, or drill a lift twenty minutes into a grinder, the pattern getting rehearsed is not the one on the whiteboard. It is the rounded back, the half kip, the pressed out finish. Do that twice a week for a month and the compensation is the movement now.\n\nWhich is why the order of a session is not decoration. Skill work and heavy singles belong in the first twenty minutes, while you can still hold a shape you would be happy to see on video. Conditioning goes after. If a workout deliberately buries a technical lift deep in a metcon, that is a different job with a different point, and the load comes down far enough that the shape survives the fatigue.\n\nYou still get to train tired. That is most of training. Just be clear about what you are actually practicing when you do. Which movement is the first to fall apart for you once the clock is running?",
       "hashtags": "#ToughCountryFitness #SessionOrder #SkillWork #StrengthAndPerformance #Vegas702",
       "first_comment": "A useful check: film the same movement at the start of a session and again at the end of a hard one. Most people are surprised how little the two clips have in common. What goes first for you, grip, breathing or position?",
+      "drafted_on": "2026-09-05",
+      "image_hosted": true
+    },
+    {
+      "id": "d30",
+      "pillar": "Consistency and Accountability",
+      "headline": "The session you skip is sleep",
+      "concept": "sleep is a schedulable training input that people give away first, short sleep raises perceived effort so the same weight feels heavier without anything about fitness changing, and a fixed wake time backed into a bedtime is the lever rather than a longer weekend",
+      "image_url": "https://raw.githubusercontent.com/bkbingham95/tcf-media/main/out/drafts/d30.jpg",
+      "source_photo": "photos/IMG_5300.JPG",
+      "style": "green",
+      "alt": "A member lies flat on the gym floor at the bottom of a push-up on black rubber tiles with barbells racked on the wall behind her, with the words THE SESSION YOU SKIP IS SLEEP burned across the lower third above the TOUGH COUNTRY FITNESS wordmark.",
+      "caption": "You will defend a five thirty class against anything on the calendar, then give away an hour of sleep without a second thought. 🌙\n\nThat hour is not free. Run a few nights short and the first thing that moves is not your strength, it is your read on the effort. The same weight feels heavier, the same pace feels harder, and the set you would normally finish at two reps in reserve now feels like a limit. Nothing about your fitness changed overnight. Your gauge did. Grip on a bar, timing on a jump, patience with a lift that is not cooperating, all of it degrades quietly, and none of it announces itself as tiredness. It shows up as a bad session you then go looking for other reasons to explain.\n\nThe standing advice for adults sits at roughly seven to nine hours, and almost nobody gets there by hoping. Treat it the way you treat a class time. Pick the wake time you are actually stuck with, count backward, and that is your bedtime, not a suggestion. Hold the wake time steady across the weekend, because a two hour lie in on Saturday costs you Sunday night. Put the phone somewhere that requires standing up. If you have to choose between the last thirty minutes of something and a real night, the night wins more often than people expect. 🛏️\n\nIf you sleep the hours and still wake up wrecked, or you snore hard enough that somebody else has mentioned it, that is worth taking to a doctor rather than solving with an earlier alarm.\n\nWhat time would you have to go to bed for your usual alarm to be seven hours away?",
+      "hashtags": "#ToughCountryFitness #SleepAndTraining #Recovery #ConsistencyAndAccountability #MesquiteNV",
+      "first_comment": "The strange part is that the bar does not know you slept five hours, so the number on it stays honest while your sense of it does not. When the week gets tight, which one do you protect first, the session or the sleep?",
       "drafted_on": "2026-09-05",
       "image_hosted": false
     }
