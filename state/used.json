@@ -1,6 +1,6 @@
 {
   "_note": "Re-indexed 2026-08-10. The photo library was fully replaced, so the photo usage ledger was reset to the 44 new files. Concept history is preserved and still governs anti-repeat. Photos used before 2026-08-10 refer to files no longer in the repo.",
-  "style_index": 0,
+  "style_index": 2,
   "photos": [
     {
       "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
@@ -163,6 +163,12 @@
       "used": "2026-09-05",
       "confidence": "confirmed",
       "note": "rendered for draft d30, not promoted and not published"
+    },
+    {
+      "file": "photos/May05,2026untitled678.jpg",
+      "used": "2026-09-07",
+      "confidence": "confirmed",
+      "note": "rendered for draft d31, not promoted and not published"
     }
   ],
   "unused_photos_remaining": [
@@ -476,6 +482,30 @@
       "pillar": "Consistency and Accountability",
       "concept": "sleep is a schedulable training input that people give away first, short sleep raises perceived effort so the same weight feels heavier without anything about fitness changing, and a fixed wake time backed into a bedtime is the lever rather than a longer weekend",
       "source": "tcf-nightly-run, draft d30, not promoted"
+    },
+    {
+      "date": "2026-09-08",
+      "pillar": "Strength and Performance",
+      "concept": "people consistently overestimate how hard a set was and leave several reps unused, so naming reps in reserve out loud is the correction",
+      "source": "tcf-nightly-run"
+    },
+    {
+      "date": "2026-09-07",
+      "pillar": "Real-Life Fitness",
+      "concept": "comfortable walking pace is an output of leg strength, ankle range, balance and aerobic supply rather than a fixed personality trait, it sits near three miles an hour, and it moves when you deliberately walk faster",
+      "source": "tcf-nightly-run, draft d31, not promoted"
+    },
+    {
+      "date": "2026-09-09",
+      "pillar": "Consistency and Accountability",
+      "concept": "a session that lives as a floating intention gets pushed by anything scheduled, so it needs a booked hour defended the way a work meeting is",
+      "source": "tcf-nightly-run"
+    },
+    {
+      "date": "2026-09-10",
+      "pillar": "Real-Life Fitness",
+      "concept": "nearly every gym lift runs straight forward and back, but real loads twist, so anti-rotation work is the piece almost nobody trains",
+      "source": "tcf-nightly-run"
     }
   ],
   "last_pillar": "Consistency and Accountability",
