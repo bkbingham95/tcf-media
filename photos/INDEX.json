@@ -173,7 +173,7 @@
         6089,
         4061
       ],
-      "desc": "Black and white close-up of a barbell loaded with a single steel plate on a rack.",
+      "desc": "Two hex dumbbells pressed overhead with arms extended, the workout whiteboard and storage shelves behind.",
       "people": 0,
       "group": "equipment",
       "movement": null,
@@ -305,7 +305,7 @@
         6617,
         5294
       ],
-      "desc": "Gym interior.",
+      "desc": "A man in a maroon tee holds a bumper plate and a spring collar at waist height, gym floor blurred behind.",
       "people": null,
       "group": null,
       "movement": null,
@@ -336,7 +336,7 @@
         2461,
         1969
       ],
-      "desc": "Gym interior.",
+      "desc": "A man and a woman stand talking in front of the whiteboard with the day's workout written on it.",
       "people": null,
       "group": null,
       "movement": null,
@@ -367,7 +367,7 @@
         4596,
         3385
       ],
-      "desc": "A woman in a black Bulldog Swimming tee holds two hex dumbbells at her shoulders.",
+      "desc": "A member in a black Bulldog Swimming tee holds two hex dumbbells at the shoulders.",
       "people": 1,
       "group": "solo",
       "movement": "dumbbell front rack",
@@ -383,7 +383,7 @@
         4362,
         2908
       ],
-      "desc": "Five worn kettlebells lined up on a steel shelf.",
+      "desc": "Five worn kettlebells lined up on the floor in front of a steel storage shelf.",
       "people": 0,
       "group": "equipment",
       "movement": null,
@@ -499,7 +499,7 @@
         5184,
         3456
       ],
-      "desc": "An empty gym bay at rest, roll-up door open to daylight with a bike and bench in shadow.",
+      "desc": "An empty corner of the gym at rest, the door open to daylight with a rower and bench in shadow.",
       "people": 0,
       "group": "none",
       "movement": "empty gym",
@@ -631,7 +631,7 @@
         3213,
         5712
       ],
-      "desc": "A lone member sets up over a barbell in a large open gym with tall arched windows behind.",
+      "desc": "A member sets up over a barbell in a large open gym with tall arched windows behind, one other person at the rig.",
       "people": 2,
       "group": "solo",
       "movement": "deadlift setup",
@@ -764,7 +764,7 @@
         3213,
         5712
       ],
-      "desc": "A member lies flat on the floor at the bottom of a burpee in a wide empty bay.",
+      "desc": "A member holds a push-up position in the distance across a wide empty stretch of gym floor.",
       "people": 1,
       "group": "solo",
       "movement": "burpees",
@@ -781,7 +781,7 @@
         3213,
         5712
       ],
-      "desc": "A woman lifts a barbell out of the rack under tall windows.",
+      "desc": "A woman bends over a barbell at the rig with the wall rack of bars behind her.",
       "people": 1,
       "group": "solo",
       "movement": "barbell setup",
@@ -893,7 +893,7 @@
         2160,
         2658
       ],
-      "desc": "A man runs across a parking lot in the early morning with a playground behind him.",
+      "desc": "A runner crosses the parking lot in early morning light with a playground and swing set behind.",
       "people": 1,
       "group": "solo",
       "movement": "running",
@@ -1057,7 +1057,7 @@
         1024,
         1280
       ],
-      "desc": "Barbells stood on end against a concrete wall, shot close on the sleeve ends.",
+      "desc": "Barbells racked horizontally on a wall mount against concrete, shot close on the sleeve ends.",
       "people": 0,
       "group": "none",
       "movement": "equipment detail",
@@ -1073,7 +1073,7 @@
         1024,
         1280
       ],
-      "desc": "A moody low-key shot of a woman pressing up under a bar with window light behind her.",
+      "desc": "A moody low-key shot of a woman pulling up to a bar set low in the rig, window light behind her.",
       "people": 1,
       "group": "solo",
       "movement": "push-ups",
@@ -1137,7 +1137,7 @@
         1024,
         1280
       ],
-      "desc": "Two women walk toward the fan bikes past the open bay door between efforts.",
+      "desc": "Two women walk and talk across the gym floor past a large floor fan between efforts.",
       "people": 2,
       "group": "pair",
       "movement": "between efforts",
@@ -1250,7 +1250,7 @@
         1024,
         1280
       ],
-      "desc": "A woman holds a jump rope stretched overhead with both arms in the dim gym.",
+      "desc": "A woman stretches a red resistance band overhead with both arms at the rig.",
       "people": 1,
       "group": "solo",
       "movement": "jump rope",
@@ -1298,7 +1298,7 @@
         1024,
         1280
       ],
-      "desc": "An older man in a Challenge Accepted shirt walks past the workout whiteboard.",
+      "desc": "A man in a Challenge Accepted shirt skips rope in front of the workout whiteboard.",
       "people": 1,
       "group": "solo",
       "movement": "between rounds",
@@ -1346,7 +1346,7 @@
         1024,
         1280
       ],
-      "desc": "An older woman with long grey hair hangs from the pull-up bar with a band for assistance.",
+      "desc": "A woman with long grey hair hangs from the pull-up bar seen from behind, bands draped on the rig beside her.",
       "people": 1,
       "group": "solo",
       "movement": "banded pull-up",
@@ -1625,7 +1625,7 @@
         1024,
         1280
       ],
-      "desc": "A woman pulls a red resistance band apart overhead with feet planted wide.",
+      "desc": "A woman stands on a red resistance band and pulls it up to her shoulders with feet planted wide.",
       "people": 1,
       "group": "solo",
       "movement": "band work",
@@ -1668,6 +1668,7 @@
       "quality_flag": null
     }
   ],
-  "_updated_on": "2026-08-30",
-  "_update_note": "2026-08-30: added 74 photos from the batch Brian dropped in. Before indexing, 14 files were removed from photos/ because their bytes matched images already in \"used Photos\" (already published), and 2 byte-identical duplicates were deleted. photos/May05,2026untitled086.jpg is a hydration photo; it is tagged Real-Life Fitness only, because RULES.md serves Simple Nutrition as Simpli Studio recipe cards and forbids forcing a gym photo onto that pillar. Also removed photos/untitled-82.jpg and its index entry on 2026-08-30: it was byte-identical to used Photos/untitled-82.jpg, i.e. already published."
+  "_updated_on": "2026-09-18",
+  "_update_note": "2026-08-30: added 74 photos from the batch Brian dropped in. Before indexing, 14 files were removed from photos/ because their bytes matched images already in \"used Photos\" (already published), and 2 byte-identical duplicates were deleted. photos/May05,2026untitled086.jpg is a hydration photo; it is tagged Real-Life Fitness only, because RULES.md serves Simple Nutrition as Simpli Studio recipe cards and forbids forcing a gym photo onto that pillar. Also removed photos/untitled-82.jpg and its index entry on 2026-08-30: it was byte-identical to used Photos/untitled-82.jpg, i.e. already published.",
+  "_verify_note": "2026-09-18: every one of the 102 indexed photos was viewed and its desc checked against the actual image. 17 descriptions were wrong and are corrected here. Two were placeholders reading only 'Gym interior' (untitled-34, untitled-40) and two named the wrong object entirely (untitled-18 described a barbell but is dumbbells overhead; May05,2026untitled168 described a jump rope but is a resistance band). The rest were wrong on the movement, the equipment or the subject. Since encouraging-pillar matching selects on desc alone, a wrong desc puts the wrong photo behind a headline. bottom_third_busy and quality_flag were NOT re-derived: an automated edge-density pass disagreed with the flags on 13 photos but false-positives on plain asphalt and rubber matting, so those flags still need a render test rather than a measurement."
 }

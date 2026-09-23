@@ -407,7 +407,8 @@
       "hashtags": "#ToughCountryFitness #MuscleMemory #TimeOff #ConsistencyAndAccountability #Vegas702",
       "first_comment": "The tell is that the bar usually moves better than the lungs do, which is the opposite of what everybody braces for on the drive over. Do you ease back in on purpose, or go straight at it and pay for it the next day?",
       "approved_on": "2026-09-03",
-      "promoted_from": "d21"
+      "promoted_from": "d21",
+      "posted_on": "2026-09-14"
     },
     {
       "id": "b29",
@@ -422,7 +423,8 @@
       "hashtags": "#ToughCountryFitness #MesquiteNV #RealLifeFitness #Plyometrics #AgingWell",
       "first_comment": "Noise is the honest test. If the gym can hear you land, the joints are catching the floor instead of the muscles, and quieter landings usually show up within a couple of weeks of paying attention to them. What is the lowest box you would trust yourself on today?",
       "approved_on": "2026-09-03",
-      "promoted_from": "d22"
+      "promoted_from": "d22",
+      "posted_on": "2026-09-15"
     },
     {
       "id": "b30",
@@ -437,7 +439,8 @@
       "hashtags": "#ToughCountryFitness #StrengthTraining #Dumbbells #MesquiteNV #TrainSmart",
       "first_comment": "The tell is almost always the finish rather than the start. One dumbbell locks out a beat late and drifts toward the middle on the way up, and once you have seen it you cannot unsee it. How many extra sets a week would you actually give the slower side?",
       "approved_on": "2026-09-03",
-      "promoted_from": "d23"
+      "promoted_from": "d23",
+      "posted_on": "2026-09-17"
     },
     {
       "id": "b31",
@@ -452,7 +455,8 @@
       "hashtags": "#ToughCountryFitness #MesquiteNV #TrainingHabits #ConsistencyOverIntensity #GymLife",
       "first_comment": "The audit takes about four minutes and most people are surprised by how lopsided it looks once it is written down. What time of day do you train when the schedule gets tight?",
       "approved_on": "2026-09-03",
-      "promoted_from": "d24"
+      "promoted_from": "d24",
+      "posted_on": "2026-09-18"
     }
   ],
   "_cadence_note": "2026-08-30: Brian moved to one post per day, Monday to Friday only. posts_per_day and preferred_times reflect the one-a-day part. The WEEKDAY-ONLY part is now enforced in the tcf-instagram-nightly-scheduler task file at Step 1, which exits without scheduling when the target date falls on a Saturday or Sunday.",

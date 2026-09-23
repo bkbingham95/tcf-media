@@ -129,58 +129,98 @@
       "note": "bank composite b31 (promoted from draft d24 on 2026-09-03), approved, not yet published"
     },
     {
-      "file": "photos/May05,2026untitled782.jpg",
-      "used": "2026-09-04",
+      "file": "photos/untitled-14.jpg",
+      "used": "2026-09-15",
       "confidence": "confirmed",
-      "note": "draft d25, not promoted and not published"
+      "note": "draft d35 composite, not promoted and not published"
+    },
+    {
+      "file": "photos/May05,2026untitled033.jpg",
+      "used": "2026-09-15",
+      "confidence": "confirmed",
+      "note": "draft d36 composite, not promoted and not published"
+    },
+    {
+      "file": "photos/untitled-8.jpg",
+      "used": "2026-09-16",
+      "confidence": "confirmed",
+      "note": "draft d37 composite, not promoted and not published"
+    },
+    {
+      "file": "photos/May05,2026untitled503.jpg",
+      "used": "2026-09-16",
+      "confidence": "confirmed",
+      "note": "draft d38 composite, not promoted and not published"
     },
     {
       "file": "photos/IMG_4757.JPG",
-      "used": "2026-09-04",
+      "used": "2026-09-17",
       "confidence": "confirmed",
-      "note": "draft d26, not promoted and not published"
+      "note": "draft d39 composite, not promoted and not published"
     },
     {
-      "file": "photos/May05,2026untitled313.jpg",
-      "used": "2026-09-05",
+      "file": "photos/IMG_1372.JPG",
+      "used": "2026-09-17",
       "confidence": "confirmed",
-      "note": "draft d27, not promoted and not published"
+      "note": "draft d40 composite, not promoted and not published"
     },
     {
-      "file": "photos/untitled-2.jpg",
-      "used": "2026-09-05",
+      "file": "photos/untitled-26.jpg",
+      "used": "2026-09-18",
       "confidence": "confirmed",
-      "note": "draft d28, not promoted and not published"
+      "note": "draft d41 composite, not promoted and not published"
+    },
+    {
+      "file": "photos/IMG_5485.JPG",
+      "used": "2026-09-18",
+      "confidence": "confirmed",
+      "note": "draft d42 composite, not promoted and not published"
+    },
+    {
+      "file": "photos/IMG_5466.JPG",
+      "used": "2026-09-19",
+      "confidence": "confirmed",
+      "note": "draft d43 composite, not promoted and not published"
     },
     {
       "file": "photos/IMG_5290.JPG",
-      "date": "2026-09-05",
+      "used": "2026-09-20",
       "confidence": "confirmed",
-      "note": "rendered for draft d29, not yet published"
+      "note": "draft d44 composite, not promoted and not published"
     },
     {
-      "file": "photos/IMG_5300.JPG",
-      "used": "2026-09-05",
+      "file": "photos/IMG_5441.JPG",
+      "used": "2026-09-21",
       "confidence": "confirmed",
-      "note": "rendered for draft d30, not promoted and not published"
+      "note": "rendered for draft d45, not promoted and not published"
     },
     {
-      "file": "photos/May05,2026untitled678.jpg",
-      "used": "2026-09-07",
+      "file": "photos/May05,2026untitled154.jpg",
+      "used": "2026-09-22",
       "confidence": "confirmed",
-      "note": "rendered for draft d31, not promoted and not published"
+      "note": "rendered for draft d46, not promoted and not published"
     }
   ],
   "unused_photos_remaining": [
     "photos/4EDC7B5D-0724-4BC3-A8AC-79164AFDA237.jpeg",
+    "photos/IMG_0277.JPG",
     "photos/IMG_0312.JPG",
     "photos/IMG_0314.JPG",
     "photos/IMG_0538.JPG",
     "photos/IMG_4300.jpeg",
+    "photos/IMG_4757.JPG",
+    "photos/IMG_5290.JPG",
+    "photos/IMG_5300.JPG",
+    "photos/IMG_5313.JPG",
     "photos/IMG_9921.JPG",
+    "photos/May05,2026untitled313.jpg",
+    "photos/May05,2026untitled421.jpg",
+    "photos/May05,2026untitled678.jpg",
+    "photos/May05,2026untitled782.jpg",
     "photos/untitled-12.jpg",
     "photos/untitled-14.jpg",
     "photos/untitled-18.jpg",
+    "photos/untitled-2.jpg",
     "photos/untitled-20.jpg",
     "photos/untitled-21.jpg",
     "photos/untitled-26.jpg",
@@ -512,23 +552,190 @@
       "pillar": "Strength and Performance",
       "concept": "strength is specific to the rep range and the position it was built in, so carryover between goals is partial and the training has to resemble the thing you want",
       "source": "tcf-nightly-run"
+    },
+    {
+      "date": "2026-09-14",
+      "pillar": "Consistency and Accountability",
+      "concept": "conditioning fades fast but strength is stubborn, and retraining runs quicker than the original build, so a layoff is a delay rather than a reset",
+      "source": "tcf-nightly-run"
+    },
+    {
+      "date": "2026-09-13",
+      "pillar": "Strength and Performance",
+      "concept": "grip is what ends most pulling sets, so the back stops a few reps short of the work that would have made it adapt, and the fix is diagnosing which one failed rather than assuming it was the back",
+      "source": "tcf-nightly-run, draft d32, not promoted"
+    },
+    {
+      "date": "2026-09-13",
+      "pillar": "Consistency and Accountability",
+      "concept": "restarts get pinned to symbolic dates, so a midweek stumble buys several dead days and the restart date quietly becomes the plan, and the fix is beginning on whatever day it already is",
+      "source": "tcf-nightly-run, draft d33, not promoted"
+    },
+    {
+      "date": "2026-09-15",
+      "pillar": "Real-Life Fitness",
+      "concept": "power fades faster than strength with age and jumping is the first thing adults quietly drop, so landing well has to be trained back on purpose",
+      "source": "tcf-nightly-run"
+    },
+    {
+      "date": "2026-09-14",
+      "pillar": "Real-Life Fitness",
+      "concept": "a foot that lands ahead of the center of mass applies a braking force on every step, so raising cadence at the same pace shortens the step and removes the loss",
+      "source": "tcf-nightly-run, draft d34, not promoted"
+    },
+    {
+      "date": "2026-09-15",
+      "pillar": "Welcoming the Intimidated",
+      "concept": "the real barrier for a new member is not knowing the names, the routine and where things are kept rather than the physical work, and not knowing is the ordinary starting condition in this room rather than something to hide",
+      "source": "tcf-nightly-run, draft d35, not promoted"
+    },
+    {
+      "date": "2026-09-15",
+      "pillar": "Mindset and Perseverance",
+      "concept": "being the last one still working after the clock has stopped is the same workout everybody else did, and continuing on your own schedule once the hurry is gone is the whole of it rather than a consolation version",
+      "source": "tcf-nightly-run, draft d36, not promoted"
+    },
+    {
+      "date": "2026-09-17",
+      "pillar": "Strength and Performance",
+      "concept": "a barbell reports the average of two limbs so the strong side quietly covers for the weak one, and dumbbells or single arm work is what makes the difference visible",
+      "source": "tcf-nightly-run"
+    },
+    {
+      "date": "2026-09-16",
+      "pillar": "Gratitude and Gym Culture",
+      "concept": "the floor resets itself between classes because people carry things back without being asked, so every class walks onto a floor somebody else cleared, and that quiet handoff is the thing worth thanking the room for rather than any one person",
+      "source": "tcf-nightly-run, draft d37, not promoted"
+    },
+    {
+      "date": "2026-09-16",
+      "pillar": "Welcoming the Intimidated",
+      "concept": "the ten minutes before a class starts is the easiest way into the room for somebody nervous, because nothing is moving yet, nobody is too out of breath to talk, and you get to watch the room fill up instead of walking into it already full",
+      "source": "tcf-nightly-run, draft d38, not promoted"
+    },
+    {
+      "date": "2026-09-18",
+      "pillar": "Consistency and Accountability",
+      "concept": "missed sessions are not random, they cluster on one weekday behind one recurring conflict, so auditing the last eight weeks by day of the week fixes the schedule instead of the character",
+      "source": "tcf-nightly-run"
+    },
+    {
+      "date": "2026-09-17",
+      "pillar": "Mindset and Perseverance",
+      "concept": "the small stalling ritual in the thirty seconds before a set you are unsure about is what getting ready looks like from the outside rather than doubt leaking out, and everybody in the room does some version of it before they start anyway",
+      "source": "tcf-nightly-run, draft d39, not promoted"
+    },
+    {
+      "date": "2026-09-17",
+      "pillar": "Gratitude and Gym Culture",
+      "concept": "the gym is one of the few rooms in town where what people do for a living never comes up, so a roofer, a teacher and somebody's grandmother work through the same interval as equals, and that flattening is a habit the room keeps rather than an accident",
+      "source": "tcf-nightly-run, draft d40, not promoted"
+    },
+    {
+      "date": "2026-09-18",
+      "pillar": "Welcoming the Intimidated",
+      "concept": "for somebody new the frightening part is doing the setup in public rather than the effort, and a bar loaded with one plate a side is a finished, correctly set up bar rather than a practice version of a real one",
+      "source": "tcf-nightly-run, draft d41, not promoted"
+    },
+    {
+      "date": "2026-09-18",
+      "pillar": "Mindset and Perseverance",
+      "concept": "in the middle of a long effort attention narrows from the whole distance down to the next landmark thirty yards out, and that narrowing is what the middle honestly feels like rather than evidence of losing resolve",
+      "source": "tcf-nightly-run, draft d42, not promoted"
+    },
+    {
+      "date": "2026-09-19",
+      "pillar": "Gratitude and Gym Culture",
+      "concept": "the room does unasked bookkeeping for each other, so when you lose the number mid effort the person next to you supplies it without being assigned to, and that loose running tally of a neighbour is a habit of the place rather than a favour from one person",
+      "source": "tcf-nightly-run, draft d43, not promoted"
+    },
+    {
+      "date": "2026-09-20",
+      "pillar": "Welcoming the Intimidated",
+      "concept": "the entry cost of a first class is a first name on the whiteboard, because the room's onboarding really is that small, and the social nerve a new person budgets is far larger than what actually gets asked of them",
+      "source": "tcf-nightly-run, draft d44, not promoted"
+    },
+    {
+      "date": "2026-09-21",
+      "pillar": "Mindset and Perseverance",
+      "concept": "the mornings have gone dark again with the season, so the same class at the same hour asks more of people in late September than it did in July, and naming that extra cost is better than treating a harder wake-up as a lapse",
+      "source": "tcf-nightly-run, draft d45, not promoted"
+    },
+    {
+      "date": "2026-09-22",
+      "pillar": "Gratitude and Gym Culture",
+      "concept": "class ends on the clock but the room keeps going out in the parking lot, where people stand by their cars still talking long after the last rep, and that unscheduled ten minutes by the trucks is where a class of near strangers turns into people who know each other, which is a habit of the place worth thanking everybody for",
+      "source": "tcf-nightly-run, draft d46, not promoted"
     }
   ],
-  "last_pillar": "Consistency and Accountability",
+  "last_pillar": null,
   "next_pillars": [
-    "Consistency and Accountability",
-    "Real-Life Fitness",
-    "Strength and Performance",
-    "Simple Nutrition"
+    "Welcoming the Intimidated",
+    "Mindset and Perseverance",
+    "Gratitude and Gym Culture"
   ],
-  "_pillar_note": "2026-08-31: Simple Nutrition was owed since 2026-08-21 and is now paid, via b18 (fiber) on a Simpli-hosted card rather than a gym photo. That is the normal shape for this pillar and is why it falls out of the gym-photo rotation.",
+  "_pillar_note": "2026-09-15: pillars replaced. Encouraging content only: Welcoming the Intimidated, Mindset and Perseverance, Gratitude and Gym Culture. The five teaching pillars are retired and their ledger entries remain purely as anti-repeat history. Member spotlights stay out of automation and are built by hand.",
   "photos_flagged_used_offline": [
-    "photos/May05,2026untitled750.jpg"
+    "photos/May05,2026untitled750.jpg",
+    "photos/May05,2026untitled311.jpg"
   ],
-  "_offline_note": "Brian flagged May05,2026untitled750.jpg as already published. Posts before 2026-08-10 were uploaded straight into Buffer, so their source photos are not recoverable from post URLs. This ledger can only see what it schedules. Flag reuse when you spot it.",
+  "_offline_note": "Brian flagged May05,2026untitled750.jpg as already published. Posts before 2026-08-10 were uploaded straight into Buffer, so their source photos are not recoverable from post URLs. This ledger can only see what it schedules. Flag reuse when you spot it. 2026-09-18: May05,2026untitled311.jpg added by audit. The same photograph exists in 'used Photos/' at full resolution (26 MB) and in photos/ as a 295 KB re-export, so the byte hashes differ and nothing caught it. Perceptual hash distance is 0, meaning identical image. It was never in the ledger and was sitting in the selectable pool; it only escaped selection because INDEX marks it bottom_third_busy. Filename collision with 'used Photos/' is a reliable tell, so check it when adding photos.",
   "_anti_repeat_warning": "This file is NOT a source of truth. Posts created outside this pipeline never reach it. On 2026-08-11 two posts were rebuilt nearly verbatim from concepts already published on 2026-08-10 because those were missing here. Always check Buffer sent history first.",
-  "_rotation_note": "Consistency and Accountability was skipped on 2026-08-12: five concepts had already run in seven days and a sixth was queued for that night. Crowding beats rotation order.",
   "_library_warning": "2026-08-23: photos/INDEX.json has been REBUILT from the files actually on disk and is trustworthy again. 29 photos indexed, 8 retired plus untitled-40 and untitled-34 (ORB matched to old composites) plus the 6 consumed by bank entries b11-b16.",
-  "_bank_warning": "2026-09-03: bank is REAL PHOTO COMPOSITES ONLY. Drafts d20-d24 were promoted to b27-b31 in an interactive session and all five images are pushed and live. 9 unused entries.",
-  "_pillar_gap": "2026-08-31: Community and Coaching PAID via b18. It had been owed since b12 on 08-25. Note this pillar can only ever come from real photographs of real members, never AI, so it cannot be served by tcf-bank-drafter and must be built in a session."
+  "_bank_warning": "2026-09-15: bank holds 2 eligible entries (b30, b31), both TEACHING content approved before the switch. They ship verbatim until they drain, then the bank is empty until encouraging drafts are approved. Real photo composites only.",
+  "released_photos": [
+    {
+      "file": "photos/May05,2026untitled782.jpg",
+      "was": "draft d25, not promoted and not published",
+      "released": "2026-09-15"
+    },
+    {
+      "file": "photos/IMG_4757.JPG",
+      "was": "draft d26, not promoted and not published",
+      "released": "2026-09-15"
+    },
+    {
+      "file": "photos/May05,2026untitled313.jpg",
+      "was": "draft d27, not promoted and not published",
+      "released": "2026-09-15"
+    },
+    {
+      "file": "photos/untitled-2.jpg",
+      "was": "draft d28, not promoted and not published",
+      "released": "2026-09-15"
+    },
+    {
+      "file": "photos/IMG_5290.JPG",
+      "was": "rendered for draft d29, not yet published",
+      "released": "2026-09-15"
+    },
+    {
+      "file": "photos/IMG_5300.JPG",
+      "was": "rendered for draft d30, not promoted and not published",
+      "released": "2026-09-15"
+    },
+    {
+      "file": "photos/May05,2026untitled678.jpg",
+      "was": "rendered for draft d31, not promoted and not published",
+      "released": "2026-09-15"
+    },
+    {
+      "file": "photos/May05,2026untitled421.jpg",
+      "was": "rendered for draft d32, not promoted and not published",
+      "released": "2026-09-15"
+    },
+    {
+      "file": "photos/IMG_0277.JPG",
+      "was": "rendered for draft d33, not promoted and not published",
+      "released": "2026-09-15"
+    },
+    {
+      "file": "photos/IMG_5313.JPG",
+      "was": "draft d34, not yet published",
+      "released": "2026-09-15"
+    }
+  ],
+  "_released_note": "2026-09-15: the teaching-to-encouraging switch archived every unpromoted draft. These photos had been consumed by those drafts and never published, so they are released back to the library and may be used again with a new headline. Their old composites still sit unreferenced in out/drafts/. Photos behind PUBLISHED posts were not touched.",
+  "_retired_rotation_note": "Consistency and Accountability was skipped on 2026-08-12: five concepts had already run in seven days and a sixth was queued for that night. Crowding beats rotation order.",
+  "_retired_pillar_gap": "2026-08-31: Community and Coaching PAID via b18. It had been owed since b12 on 08-25. Note this pillar can only ever come from real photographs of real members, never AI, so it cannot be served by tcf-bank-drafter and must be built in a session."
 }

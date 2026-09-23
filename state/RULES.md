@@ -65,15 +65,38 @@ all. Anti-repeat checks have to read both.
 
 ## Content
 
-- Five pillars: Strength and Performance, Simple Nutrition, Real-Life Fitness,
-  Community and Coaching, Consistency and Accountability. Rotate in order; the current
-  position lives in `state/used.json` under `next_pillars`.
-- Simple Nutrition is served as **Meal Prep Monday recipe cards** generated in Simpli
-  Studio, not from the gym photo library. It is not an unservable pillar. Do not force a
-  gym photo onto it and do not skip it for lack of food photography.
-- If no photo fits the pillar that is up next, match the pillar to the image instead of
+**Direction changed 2026-09-15: this page publishes ENCOURAGING posts, not teaching
+posts.** Brian made the call in an interactive session. Teaching content is retired.
+
+- Three pillars: **Welcoming the Intimidated**, **Mindset and Perseverance**,
+  **Gratitude and Gym Culture**. Rotate in that order; position is found from the most
+  recent encouraging entries in `drafts.json`.
+- **Member spotlights are out of scope for automation.** No named members, no
+  celebrating one person's progress. That needs Brian's judgment about who appears and
+  in what light, so he builds those by hand. Gratitude and Gym Culture is about the room
+  and the habits of the place, not individuals.
+- **No teaching posts.** No mechanisms, rep schemes, percentages, numbers to hit or myth
+  takedowns. A concrete detail in passing is good; a lesson is not.
+- The `pillars` field in `photos/INDEX.json` is tagged to the retired teaching pillars
+  and will never name the three above. **Ignore it when matching** and select on `desc`.
+  Empty rooms and equipment at rest suit Welcoming the Intimidated; solo effort and early
+  light suit Mindset and Perseverance; the room, the rig, the flag and the lot at sunrise
+  suit Gratitude and Gym Culture.
+- If no photo suits the pillar that is up next, match the pillar to the image instead of
   forcing it, and leave the skipped pillar at the front of the queue.
 - Style rotation cycles amber, ice blue, clay red, green by `style_index` in `used.json`.
+
+### Retired pillars
+
+Strength and Performance, Simple Nutrition, Real-Life Fitness, Community and Coaching and
+Consistency and Accountability are no longer drafted. Their entries stay in the bank, the
+drafts archive and the ledger as anti-repeat history: **never reuse their photos,
+headlines or hero words.** Do not rewrite an old teaching concept into the new voice
+either. Start from a real moment, not from an old post.
+
+Approved teaching entries already in `queue.json` still ship, verbatim, until the bank
+drains. Do not "update" one into the encouraging voice; it goes out as approved or not at
+all. Meal Prep Monday recipe cards are built separately and are unaffected.
 
 ## Anti-repeat
 
@@ -124,12 +147,44 @@ History checking is the braces. `queue.json` schema v2 is the belt: every entry 
 
 ## Copy
 
+**Voice, as of 2026-09-15:** warm, plain-spoken and specific. Encouraging, not saccharine.
+The reader should feel recognised rather than cheered at. Write like a coach who noticed
+something true about their week, not like a poster on a locker room wall. Keep the dryness
+and the respect for the reader's intelligence the teaching posts had, and drop the lecture.
+
+Concreteness is what keeps this from becoming wallpaper. Anchor each post to one
+recognisable moment: the walk from the car to the door, the set someone talked themselves
+out of and then did anyway, the person who racks your plates without being asked, the lot
+at five in the morning in January. Name the moment and stay in it. **A caption any gym in
+the country could have posted is a failed caption.**
+
 - No em dashes anywhere.
 - Exactly 5 hashtags, in their own block after the caption, never inline.
 - The first comment never contains hashtags, and its question must differ from the
   question closing the caption.
 - No engagement bait. No "tag a friend", "share if you agree", "drop a comment".
-  Close with a real question instead.
+  Close with a real question instead. Encouraging copy drifts toward bait much harder
+  than teaching copy did; "tag someone who needs to hear this" is exactly the line never
+  to write.
+- Headlines stay warm and plain. No commands, no slogans. "Show up and grind" is wrong.
+  "The hardest part is the parking lot" is right.
+
+### Encouragement has failure modes
+
+Avoiding these is part of the brief, not a nicety.
+
+- **No shame, guilt or comparison as motivation.** No "no excuses". Nothing implying rest
+  days, missed sessions or slow progress are a character defect. Nothing about what other
+  people were doing while the reader slept.
+- **Pain and exhaustion are not virtues.** Do not sell them as such.
+- **Nothing about anyone's body, weight, size or appearance**, and never suggest the
+  reason to train is how someone will look.
+- **No promised transformations or outcomes.**
+- No medical advice, no claims about treating injury or disease. Where a topic brushes a
+  health condition, point at a doctor rather than giving a number.
+
+Warmth means meeting people where they are, including the ones who are struggling. A post
+that would leave a nervous beginner feeling worse has missed the brief completely.
 
 
 ## Working alongside Brian
