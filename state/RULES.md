@@ -2,6 +2,35 @@
 
 Standing rules for the photo-to-social pipeline. Read this before any run.
 
+## 2026-10-06 changes (these win over anything older below)
+
+**Scheduling moved to Simpli Studio.** Brian's call, in an interactive session. Blotato
+is now read-only history for this page, like Buffer before it.
+
+- Schedule with Simpli Studio `schedule_post`, `page: "Tough Country"`, one call per
+  platform with `platforms: ["INSTAGRAM"]` and then `platforms: ["FACEBOOK"]`, same
+  `image_url`, `caption`, `first_comment` and `schedule_at`.
+- The Tough Country Simpli page has exactly two accounts assigned: Instagram Tough
+  Country Fitness (`INSTAGRAM:17841444218450831`) and Facebook Tough Country Fitness
+  (`FACEBOOK:400966506670459`). **Check the `targets` in every result.** Anything else
+  means the page assignment changed: cancel with `cancel_post` immediately and ask.
+  Never call `schedule_post` without `page`, because a page with no accounts posts to
+  every connected account in the workspace.
+- Simpli has no alt text field. Posts go without it.
+- Confirm with `list_posts` (`page: "Tough Country"`, `status: "SCHEDULED"`).
+- Anti-repeat now reads three histories: Simpli `list_posts` for the Tough Country page,
+  Blotato (2026-08-18 to 2026-10-05) and Buffer (before 2026-08-18).
+- Image hosting is unchanged: push the composite to GitHub, then pass the raw URL. An
+  interactive session with the repo attached can push directly; the Blotato upload host
+  is blocked by the sandbox proxy.
+
+**Headlines become uplifting quotes.** From 2026-10-06 the text burned into each
+composite is an uplifting quote rather than a headline. Original lines written in this
+page's voice, no attribution, no famous quotes (misattribution risk, and they read like
+every other gym page). Everything in the Copy section still applies: warm, plain,
+specific to this room, no commands or slogans, no shame, nothing about bodies. The
+caption grows out of the quote rather than restating it.
+
 ## Scheduling
 
 - **Both platforms, as of 2026-08-18.** Every post goes to Instagram *and* the Facebook
