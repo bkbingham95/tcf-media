@@ -1,6 +1,6 @@
 {
   "_note": "Re-indexed 2026-08-10. The photo library was fully replaced, so the photo usage ledger was reset to the 44 new files. Concept history is preserved and still governs anti-repeat. Photos used before 2026-08-10 refer to files no longer in the repo.",
-  "style_index": 1,
+  "style_index": 2,
   "photos": [
     {
       "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
@@ -217,6 +217,12 @@
       "used": "2026-10-08",
       "confidence": "confirmed",
       "note": "composite at out/2026-10-08/slot1.jpg, scheduled via Simpli 13:30 PT (09:00 run blocked by Instagram target mismatch, fixed by Brian)"
+    },
+    {
+      "file": "photos/untitled-2.jpg",
+      "used": "2026-10-09",
+      "confidence": "confirmed",
+      "note": "out/2026-10-09/slot1.jpg"
     }
   ],
   "unused_photos_remaining": [
@@ -235,7 +241,6 @@
     "photos/untitled-12.jpg",
     "photos/untitled-14.jpg",
     "photos/untitled-18.jpg",
-    "photos/untitled-2.jpg",
     "photos/untitled-20.jpg",
     "photos/untitled-21.jpg",
     "photos/untitled-26.jpg",
@@ -702,13 +707,20 @@
       "concept": "the outdoor warm-up lap leaves as one loose group and the people up front quietly drift back until whoever was last is in the middle again, an unassigned habit of the room worth thanking everybody for",
       "source": "tcf-weekday-cloud-task",
       "headline": "Out the door together, back in together"
+    },
+    {
+      "date": "2026-10-09",
+      "pillar": "Welcoming the Intimidated",
+      "concept": "the band pull-aparts at the start of class look identical on a ten year member and on someone who signed the waiver twenty minutes ago, so the first few minutes of a first class are the easiest place in the building to blend in",
+      "source": "tcf-weekday-cloud-task",
+      "headline": "Day one and year ten warm up the same"
     }
   ],
-  "last_pillar": "Gratitude and Gym Culture",
+  "last_pillar": "Welcoming the Intimidated",
   "next_pillars": [
-    "Welcoming the Intimidated",
     "Mindset and Perseverance",
-    "Gratitude and Gym Culture"
+    "Gratitude and Gym Culture",
+    "Welcoming the Intimidated"
   ],
   "_pillar_note": "2026-09-15: pillars replaced. Encouraging content only: Welcoming the Intimidated, Mindset and Perseverance, Gratitude and Gym Culture. The five teaching pillars are retired and their ledger entries remain purely as anti-repeat history. Member spotlights stay out of automation and are built by hand.",
   "photos_flagged_used_offline": [
