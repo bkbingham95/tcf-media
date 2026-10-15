@@ -1,6 +1,6 @@
 {
   "_note": "Re-indexed 2026-08-10. The photo library was fully replaced, so the photo usage ledger was reset to the 44 new files. Concept history is preserved and still governs anti-repeat. Photos used before 2026-08-10 refer to files no longer in the repo.",
-  "style_index": 1,
+  "style_index": 2,
   "photos": [
     {
       "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
@@ -241,6 +241,12 @@
       "used": "2026-10-14",
       "confidence": "confirmed",
       "note": "out/2026-10-14/slot1.jpg, scheduled via Blotato 09:00 PT (FB 3159ddad, IG 6c014f83)"
+    },
+    {
+      "file": "photos/untitled-32.jpg",
+      "used": "2026-10-15",
+      "confidence": "confirmed",
+      "note": "out/2026-10-15/slot1.jpg, scheduled via Blotato 09:00 PT (FB e114c23d, IG 1fdadad6)"
     }
   ],
   "unused_photos_remaining": [
@@ -260,7 +266,6 @@
     "photos/untitled-21.jpg",
     "photos/untitled-26.jpg",
     "photos/untitled-3.jpg",
-    "photos/untitled-32.jpg",
     "photos/untitled-53.jpg",
     "photos/untitled-68.jpg",
     "photos/untitled-75.jpg",
@@ -750,13 +755,20 @@
       "concept": "a nervous beginner pictures their first class as the loud heavy part with bars and a running clock, but a good share of class is quiet and flat on a mat, pressing one plate slowly toward the ceiling, and nobody on the next mat is any better at lying down than a first-timer",
       "source": "tcf-weekday-cloud-task",
       "headline": "Plenty of good work here starts lying down"
+    },
+    {
+      "date": "2026-10-15",
+      "pillar": "Mindset and Perseverance",
+      "concept": "on the rower every stroke slides back up the rail to the same folded spot at the front before the next drive, and nobody counts that as losing ground, so walking back in after time away is the first half of the next stroke rather than a step backwards",
+      "source": "tcf-weekday-cloud-task",
+      "headline": "Every stroke begins by coming back to the start"
     }
   ],
-  "last_pillar": "Welcoming the Intimidated",
+  "last_pillar": "Mindset and Perseverance",
   "next_pillars": [
-    "Mindset and Perseverance",
     "Gratitude and Gym Culture",
-    "Welcoming the Intimidated"
+    "Welcoming the Intimidated",
+    "Mindset and Perseverance"
   ],
   "_pillar_note": "2026-09-15: pillars replaced. Encouraging content only: Welcoming the Intimidated, Mindset and Perseverance, Gratitude and Gym Culture. The five teaching pillars are retired and their ledger entries remain purely as anti-repeat history. Member spotlights stay out of automation and are built by hand.",
   "photos_flagged_used_offline": [
