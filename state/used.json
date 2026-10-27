@@ -1,6 +1,6 @@
 {
   "_note": "Re-indexed 2026-08-10. The photo library was fully replaced, so the photo usage ledger was reset to the 44 new files. Concept history is preserved and still governs anti-repeat. Photos used before 2026-08-10 refer to files no longer in the repo.",
-  "style_index": 1,
+  "style_index": 2,
   "photos": [
     {
       "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
@@ -289,6 +289,12 @@
       "used": "2026-10-26",
       "confidence": "confirmed",
       "note": "out/2026-10-26/slot1.jpg, scheduled via Blotato 09:00 PT (FB 0f700698, IG 3c33c65f)"
+    },
+    {
+      "file": "photos/untitled-3.jpg",
+      "used": "2026-10-27",
+      "confidence": "confirmed",
+      "note": "out/2026-10-27/slot1.jpg, scheduled via Blotato 09:00 PT (FB 77774a4c, IG 23f04dd7)"
     }
   ],
   "unused_photos_remaining": [
@@ -301,7 +307,6 @@
     "photos/untitled-20.jpg",
     "photos/untitled-21.jpg",
     "photos/untitled-26.jpg",
-    "photos/untitled-3.jpg",
     "photos/untitled-53.jpg",
     "photos/untitled-75.jpg",
     "photos/untitled-78.jpg",
@@ -845,13 +850,20 @@
       "concept": "when the clock beeps at the end of class there is an unplanned couple of minutes where people take the spray bottles and wipes off the shelf and give the benches and handles a once-over before racking them, an unassigned habit done mostly for people who have not walked in yet, so a first-timer sits down on a bench cleaned by someone who will never know it was them",
       "source": "tcf-weekday-cloud-task",
       "headline": "Somebody already got this ready for you"
+    },
+    {
+      "date": "2026-10-27",
+      "pillar": "Welcoming the Intimidated",
+      "concept": "the first few minutes of a morning class are slow on purpose, a band stretched out with eyes half shut, a stiff hip rolled on the mat, so a nervous beginner worried about keeping up arrives during the part of class where nobody is keeping up with anything yet",
+      "source": "tcf-weekday-cloud-task",
+      "headline": "Nobody in this room starts at full speed"
     }
   ],
-  "last_pillar": "Gratitude and Gym Culture",
+  "last_pillar": "Welcoming the Intimidated",
   "next_pillars": [
-    "Welcoming the Intimidated",
     "Mindset and Perseverance",
-    "Gratitude and Gym Culture"
+    "Gratitude and Gym Culture",
+    "Welcoming the Intimidated"
   ],
   "_pillar_note": "2026-09-15: pillars replaced. Encouraging content only: Welcoming the Intimidated, Mindset and Perseverance, Gratitude and Gym Culture. The five teaching pillars are retired and their ledger entries remain purely as anti-repeat history. Member spotlights stay out of automation and are built by hand.",
   "photos_flagged_used_offline": [
