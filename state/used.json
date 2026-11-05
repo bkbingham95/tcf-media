@@ -1,6 +1,6 @@
 {
   "_note": "Re-indexed 2026-08-10. The photo library was fully replaced, so the photo usage ledger was reset to the 44 new files. Concept history is preserved and still governs anti-repeat. Photos used before 2026-08-10 refer to files no longer in the repo.",
-  "style_index": 2,
+  "style_index": 3,
   "photos": [
     {
       "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
@@ -129,22 +129,10 @@
       "note": "bank composite b31 (promoted from draft d24 on 2026-09-03), approved, not yet published"
     },
     {
-      "file": "photos/untitled-14.jpg",
-      "used": "2026-09-15",
-      "confidence": "confirmed",
-      "note": "draft d35 composite, not promoted and not published"
-    },
-    {
       "file": "photos/May05,2026untitled033.jpg",
       "used": "2026-09-15",
       "confidence": "confirmed",
       "note": "draft d36 composite, not promoted and not published"
-    },
-    {
-      "file": "photos/untitled-8.jpg",
-      "used": "2026-09-16",
-      "confidence": "confirmed",
-      "note": "draft d37 composite, not promoted and not published"
     },
     {
       "file": "photos/May05,2026untitled503.jpg",
@@ -153,22 +141,10 @@
       "note": "draft d38 composite, not promoted and not published"
     },
     {
-      "file": "photos/IMG_4757.JPG",
-      "used": "2026-09-17",
-      "confidence": "confirmed",
-      "note": "draft d39 composite, not promoted and not published"
-    },
-    {
       "file": "photos/IMG_1372.JPG",
       "used": "2026-09-17",
       "confidence": "confirmed",
       "note": "draft d40 composite, not promoted and not published"
-    },
-    {
-      "file": "photos/untitled-26.jpg",
-      "used": "2026-09-18",
-      "confidence": "confirmed",
-      "note": "draft d41 composite, not promoted and not published"
     },
     {
       "file": "photos/IMG_5485.JPG",
@@ -181,12 +157,6 @@
       "used": "2026-09-19",
       "confidence": "confirmed",
       "note": "draft d43 composite, not promoted and not published"
-    },
-    {
-      "file": "photos/IMG_5290.JPG",
-      "used": "2026-09-20",
-      "confidence": "confirmed",
-      "note": "draft d44 composite, not promoted and not published"
     },
     {
       "file": "photos/IMG_5441.JPG",
@@ -295,21 +265,19 @@
       "used": "2026-10-27",
       "confidence": "confirmed",
       "note": "out/2026-10-27/slot1.jpg, scheduled via Blotato 09:00 PT (FB 77774a4c, IG 23f04dd7)"
+    },
+    {
+      "file": "photos/IMG_5290.JPG",
+      "used": "2026-11-05",
+      "confidence": "confirmed",
+      "note": "out/2026-11-05/slot1.jpg, scheduled via Blotato 09:00 PT (FB 3eea1af8, IG 346e2e25)"
     }
   ],
   "unused_photos_remaining": [
-    "photos/IMG_0312.JPG",
     "photos/IMG_0314.JPG",
-    "photos/IMG_4300.jpeg",
     "photos/IMG_4757.JPG",
-    "photos/IMG_5290.JPG",
     "photos/untitled-14.jpg",
-    "photos/untitled-20.jpg",
-    "photos/untitled-21.jpg",
     "photos/untitled-26.jpg",
-    "photos/untitled-53.jpg",
-    "photos/untitled-75.jpg",
-    "photos/untitled-78.jpg",
     "photos/untitled-8.jpg"
   ],
   "retired_photos": [
@@ -857,13 +825,20 @@
       "concept": "the first few minutes of a morning class are slow on purpose, a band stretched out with eyes half shut, a stiff hip rolled on the mat, so a nervous beginner worried about keeping up arrives during the part of class where nobody is keeping up with anything yet",
       "source": "tcf-weekday-cloud-task",
       "headline": "Nobody in this room starts at full speed"
+    },
+    {
+      "date": "2026-11-05",
+      "pillar": "Mindset and Perseverance",
+      "concept": "some mornings the floor is mostly empty and one person works through push-ups alone at the far end with nobody counting along, which can feel like it matters less than a loud class, but a rep in a quiet room goes into the same week as every other and showing up unnoticed is still showing up",
+      "source": "tcf-weekday-cloud-task",
+      "headline": "The quiet mornings on your own count too"
     }
   ],
-  "last_pillar": "Welcoming the Intimidated",
+  "last_pillar": "Mindset and Perseverance",
   "next_pillars": [
-    "Mindset and Perseverance",
     "Gratitude and Gym Culture",
-    "Welcoming the Intimidated"
+    "Welcoming the Intimidated",
+    "Mindset and Perseverance"
   ],
   "_pillar_note": "2026-09-15: pillars replaced. Encouraging content only: Welcoming the Intimidated, Mindset and Perseverance, Gratitude and Gym Culture. The five teaching pillars are retired and their ledger entries remain purely as anti-repeat history. Member spotlights stay out of automation and are built by hand.",
   "photos_flagged_used_offline": [
@@ -924,9 +899,35 @@
       "file": "photos/IMG_5313.JPG",
       "was": "draft d34, not yet published",
       "released": "2026-09-15"
+    },
+    {
+      "file": "photos/IMG_4757.JPG",
+      "was": "draft d39 (and d26), never promoted or published",
+      "released": "2026-11-05"
+    },
+    {
+      "file": "photos/untitled-14.jpg",
+      "was": "draft d35, never promoted or published",
+      "released": "2026-11-05"
+    },
+    {
+      "file": "photos/untitled-26.jpg",
+      "was": "draft d41, never promoted or published",
+      "released": "2026-11-05"
+    },
+    {
+      "file": "photos/untitled-8.jpg",
+      "was": "draft d37, never promoted or published",
+      "released": "2026-11-05"
+    },
+    {
+      "file": "photos/IMG_5290.JPG",
+      "was": "draft d44 (and d29), never promoted or published",
+      "released": "2026-11-05"
     }
   ],
   "_released_note": "2026-09-15: the teaching-to-encouraging switch archived every unpromoted draft. These photos had been consumed by those drafts and never published, so they are released back to the library and may be used again with a new headline. Their old composites still sit unreferenced in out/drafts/. Photos behind PUBLISHED posts were not touched.",
   "_retired_rotation_note": "Consistency and Accountability was skipped on 2026-08-12: five concepts had already run in seven days and a sixth was queued for that night. Crowding beats rotation order.",
-  "_retired_pillar_gap": "2026-08-31: Community and Coaching PAID via b18. It had been owed since b12 on 08-25. Note this pillar can only ever come from real photographs of real members, never AI, so it cannot be served by tcf-bank-drafter and must be built in a session."
+  "_retired_pillar_gap": "2026-08-31: Community and Coaching PAID via b18. It had been owed since b12 on 08-25. Note this pillar can only ever come from real photographs of real members, never AI, so it cannot be served by tcf-bank-drafter and must be built in a session.",
+  "_released_note_2026_11_05": "2026-11-05: Brian said 'go ahead and post anything never posted'. The five draft-only photos were released back to the pool. The bank photos IMG_4300, untitled-20, -21, -53, -75 and -78 stay used: queue.json shows b19, b23, b26, b27, b28 and b30 with posted_on dates, so their 'not yet published' notes here were stale. IMG_0312 was published 2026-08-20. IMG_0314 is a close headshot of one woman with no gym context; it stays unused until Brian decides whether a quote should go over her face."
 }
