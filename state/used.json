@@ -1,6 +1,6 @@
 {
   "_note": "Re-indexed 2026-08-10. The photo library was fully replaced, so the photo usage ledger was reset to the 44 new files. Concept history is preserved and still governs anti-repeat. Photos used before 2026-08-10 refer to files no longer in the repo.",
-  "style_index": 1,
+  "style_index": 2,
   "photos": [
     {
       "file": "photos/498E4D1F-AD2A-4FBF-9CA5-74668DEB0CA4.jpeg",
@@ -283,11 +283,16 @@
       "used": "2026-11-09",
       "confidence": "confirmed",
       "note": "out/2026-11-09/slot1.jpg, scheduled via Blotato 09:00 PT (FB 42663411, IG 4a240eff)"
+    },
+    {
+      "file": "photos/IMG_4757.JPG",
+      "used": "2026-11-10",
+      "confidence": "confirmed",
+      "note": "out/2026-11-10/slot1.jpg, scheduled via Blotato 09:00 PT (FB 9643725e, IG 1ffc77f9)"
     }
   ],
   "unused_photos_remaining": [
     "photos/IMG_0314.JPG",
-    "photos/IMG_4757.JPG",
     "photos/untitled-26.jpg"
   ],
   "retired_photos": [
@@ -856,13 +861,20 @@
       "concept": "the split vinyl on the flat bench and the rubbed-dull corners of the hex dumbbells were not worn down by experts but by years of people sitting on that bench for the first time unsure how far back to lean, so nothing in the room is too nice for a beginner to learn on",
       "source": "tcf-weekday-cloud-task",
       "headline": "Every worn edge here started as a first try"
+    },
+    {
+      "date": "2026-11-10",
+      "pillar": "Mindset and Perseverance",
+      "concept": "walk past the rigs on a weekday morning and no two bars are loaded alike, each person picked their plates after checking in with how they slept and what kind of week it has been, nobody reads anyone else's bar, and going lighter on a heavy week is still a morning at the bar rather than a step back",
+      "source": "tcf-weekday-cloud-task",
+      "headline": "The right weight is the one for today"
     }
   ],
-  "last_pillar": "Welcoming the Intimidated",
+  "last_pillar": "Mindset and Perseverance",
   "next_pillars": [
-    "Mindset and Perseverance",
     "Gratitude and Gym Culture",
-    "Welcoming the Intimidated"
+    "Welcoming the Intimidated",
+    "Mindset and Perseverance"
   ],
   "_pillar_note": "2026-09-15: pillars replaced. Encouraging content only: Welcoming the Intimidated, Mindset and Perseverance, Gratitude and Gym Culture. The five teaching pillars are retired and their ledger entries remain purely as anti-repeat history. Member spotlights stay out of automation and are built by hand.",
   "photos_flagged_used_offline": [
